@@ -4712,3 +4712,1463 @@ Please see Output Log for details.
 [2024.03.23-12.17.59:896][510]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
 [2024.03.23-12.17.59:918][511]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2024.03.23-12.18.04:617][728]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.03.23-12.19.53:835][518]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\walk.fbx)
+[2024.03.23-12.19.53:863][518]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\walk.fbx
+[2024.03.23-12.19.53:894][518]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.19.57:785][518]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.23-12.19.57:836][518]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.19.57:836][518]FBXImport: Error: Import failed. 
+[2024.03.23-12.19.59:789][518]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.19.59:798][518]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\walk.fbx'. Failed to create asset '/Game/Player/walk'.
+Please see Output Log for details.
+[2024.03.23-12.19.59:798][518]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\walk.fbx'. Failed to create asset '/Game/Player/walk'.
+Please see Output Log for details.
+[2024.03.23-12.19.59:822][518]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\dance.fbx)
+[2024.03.23-12.19.59:843][518]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\dance.fbx
+[2024.03.23-12.19.59:867][518]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.19.59:871][518]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.19.59:871][518]FBXImport: Error: Import failed. 
+[2024.03.23-12.20.00:450][518]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.20.00:459][518]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\dance.fbx'. Failed to create asset '/Game/Player/dance'.
+Please see Output Log for details.
+[2024.03.23-12.20.00:459][518]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\dance.fbx'. Failed to create asset '/Game/Player/dance'.
+Please see Output Log for details.
+[2024.03.23-12.20.00:475][518]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Idle.fbx)
+[2024.03.23-12.20.00:483][518]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Idle.fbx
+[2024.03.23-12.20.00:508][518]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.20.00:513][518]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.20.00:513][518]FBXImport: Error: Import failed. 
+[2024.03.23-12.20.00:965][518]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.20.00:972][518]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\Idle.fbx'. Failed to create asset '/Game/Player/Idle'.
+Please see Output Log for details.
+[2024.03.23-12.20.00:972][518]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\Idle.fbx'. Failed to create asset '/Game/Player/Idle'.
+Please see Output Log for details.
+[2024.03.23-12.20.00:987][518]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Fall.fbx)
+[2024.03.23-12.20.00:995][518]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Fall.fbx
+[2024.03.23-12.20.01:018][518]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.20.01:022][518]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.20.01:023][518]FBXImport: Error: Import failed. 
+[2024.03.23-12.20.01:481][518]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.20.01:487][518]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\Fall.fbx'. Failed to create asset '/Game/Player/Fall'.
+Please see Output Log for details.
+[2024.03.23-12.20.01:487][518]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\Fall.fbx'. Failed to create asset '/Game/Player/Fall'.
+Please see Output Log for details.
+[2024.03.23-12.20.01:491][518]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\JumpUp.fbx)
+[2024.03.23-12.20.01:499][518]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\JumpUp.fbx
+[2024.03.23-12.20.01:518][518]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.20.01:522][518]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.20.01:522][518]FBXImport: Error: Import failed. 
+[2024.03.23-12.20.02:070][518]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.20.02:077][518]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\JumpUp.fbx'. Failed to create asset '/Game/Player/JumpUp'.
+Please see Output Log for details.
+[2024.03.23-12.20.02:077][518]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\JumpUp.fbx'. Failed to create asset '/Game/Player/JumpUp'.
+Please see Output Log for details.
+[2024.03.23-12.20.02:080][518]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\run.fbx)
+[2024.03.23-12.20.02:088][518]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\run.fbx
+[2024.03.23-12.20.02:108][518]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.20.02:111][518]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.20.02:111][518]FBXImport: Error: Import failed. 
+[2024.03.23-12.20.03:134][518]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.20.03:140][518]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\run.fbx'. Failed to create asset '/Game/Player/run'.
+Please see Output Log for details.
+[2024.03.23-12.20.03:141][518]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\run.fbx'. Failed to create asset '/Game/Player/run'.
+Please see Output Log for details.
+[2024.03.23-12.20.17:520][363]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.20.17:526][363]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.20.59:412][739]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.20.59:412][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.21.14:117][135]LogSlate: Window 'Select Skeleton' being destroyed
+[2024.03.23-12.21.14:141][135]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.21.14:141][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.21.14:180][135]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.21.14:180][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.21.23:171][514]LogSlate: Window 'Select Skeleton' being destroyed
+[2024.03.23-12.21.23:178][514]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.21.23:178][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.21.23:199][514]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.21.23:199][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.21.34:532][917]LogSlate: Window 'Merge Bones' being destroyed
+[2024.03.23-12.21.38:560][  8]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarTheBest_SkeletonRigA5E89D40460601622710518B16AADC9C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarTheBest_SkeletonRig.uasset'
+[2024.03.23-12.21.38:587][  8]AssetCheck: New page: Asset Save: JarJarTheBest_SkeletonRig
+[2024.03.23-12.21.38:587][  8]LogContentValidation: Display: Validating Rig /Game/Player/JarJarTheBest_SkeletonRig.JarJarTheBest_SkeletonRig
+[2024.03.23-12.21.39:289][ 26]LogAssetEditorSubsystem: Opening Asset editor for Rig /Game/Player/JarJarTheBest_SkeletonRig.JarJarTheBest_SkeletonRig
+[2024.03.23-12.21.47:789][300]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\walk.fbx)
+[2024.03.23-12.21.47:797][300]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\walk.fbx
+[2024.03.23-12.21.47:817][300]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.21.51:704][300]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.23-12.21.51:735][300]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.21.51:735][300]FBXImport: Error: Import failed. 
+[2024.03.23-12.21.53:646][300]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.21.53:652][300]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\walk.fbx'. Failed to create asset '/Game/Player/walk'.
+Please see Output Log for details.
+[2024.03.23-12.21.53:652][300]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\walk.fbx'. Failed to create asset '/Game/Player/walk'.
+Please see Output Log for details.
+[2024.03.23-12.21.53:673][300]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\dance.fbx)
+[2024.03.23-12.21.53:687][300]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\dance.fbx
+[2024.03.23-12.21.53:709][300]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.21.54:713][300]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.23-12.21.54:734][300]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.21.54:734][300]FBXImport: Error: Import failed. 
+[2024.03.23-12.21.56:402][300]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.21.56:410][300]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\dance.fbx'. Failed to create asset '/Game/Player/dance'.
+Please see Output Log for details.
+[2024.03.23-12.21.56:410][300]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\dance.fbx'. Failed to create asset '/Game/Player/dance'.
+Please see Output Log for details.
+[2024.03.23-12.21.56:431][300]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Idle.fbx)
+[2024.03.23-12.21.56:452][300]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Idle.fbx
+[2024.03.23-12.21.56:478][300]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.21.56:482][300]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.21.56:482][300]FBXImport: Error: Import failed. 
+[2024.03.23-12.22.00:598][300]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.22.00:606][300]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\Idle.fbx'. Failed to create asset '/Game/Player/Idle'.
+Please see Output Log for details.
+[2024.03.23-12.22.00:606][300]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\Idle.fbx'. Failed to create asset '/Game/Player/Idle'.
+Please see Output Log for details.
+[2024.03.23-12.22.00:610][300]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Fall.fbx)
+[2024.03.23-12.22.00:619][300]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Fall.fbx
+[2024.03.23-12.22.00:643][300]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.22.00:647][300]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.22.00:647][300]FBXImport: Error: Import failed. 
+[2024.03.23-12.22.01:169][300]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.22.01:177][300]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\Fall.fbx'. Failed to create asset '/Game/Player/Fall'.
+Please see Output Log for details.
+[2024.03.23-12.22.01:177][300]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\Fall.fbx'. Failed to create asset '/Game/Player/Fall'.
+Please see Output Log for details.
+[2024.03.23-12.22.01:180][300]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\JumpUp.fbx)
+[2024.03.23-12.22.01:187][300]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\JumpUp.fbx
+[2024.03.23-12.22.01:208][300]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.22.01:212][300]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.22.01:212][300]FBXImport: Error: Import failed. 
+[2024.03.23-12.22.02:338][300]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.22.02:345][300]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\JumpUp.fbx'. Failed to create asset '/Game/Player/JumpUp'.
+Please see Output Log for details.
+[2024.03.23-12.22.02:345][300]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\JumpUp.fbx'. Failed to create asset '/Game/Player/JumpUp'.
+Please see Output Log for details.
+[2024.03.23-12.22.02:357][300]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\run.fbx)
+[2024.03.23-12.22.02:365][300]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\run.fbx
+[2024.03.23-12.22.02:385][300]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.22.02:390][300]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.22.02:390][300]FBXImport: Error: Import failed. 
+[2024.03.23-12.22.03:022][300]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.22.03:030][300]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\run.fbx'. Failed to create asset '/Game/Player/run'.
+Please see Output Log for details.
+[2024.03.23-12.22.03:030][300]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\run.fbx'. Failed to create asset '/Game/Player/run'.
+Please see Output Log for details.
+[2024.03.23-12.22.05:047][412]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.22.05:055][412]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.22.07:172][475]LogUObjectHash: Compacting FUObjectHashTables data took  11.64ms
+[2024.03.23-12.22.08:287][475]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.23-12.22.08:518][475]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2024.03.23-12.22.08:609][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2024.03.23-12.22.08:657][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.23-12.22.57:497][756]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\dance.fbx)
+[2024.03.23-12.22.57:506][756]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\dance.fbx
+[2024.03.23-12.22.57:531][756]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.23.02:437][756]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.23-12.23.02:469][756]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.23.02:469][756]FBXImport: Error: Import failed. 
+[2024.03.23-12.23.03:505][756]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.23.03:511][756]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\dance.fbx'. Failed to create asset '/Game/Player/dance'.
+Please see Output Log for details.
+[2024.03.23-12.23.03:511][756]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\dance.fbx'. Failed to create asset '/Game/Player/dance'.
+Please see Output Log for details.
+[2024.03.23-12.23.03:522][756]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Idle.fbx)
+[2024.03.23-12.23.03:545][756]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Idle.fbx
+[2024.03.23-12.23.03:581][756]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.23.03:586][756]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.23.03:586][756]FBXImport: Error: Import failed. 
+[2024.03.23-12.23.04:082][756]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.23.04:089][756]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\Idle.fbx'. Failed to create asset '/Game/Player/Idle'.
+Please see Output Log for details.
+[2024.03.23-12.23.04:089][756]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\Idle.fbx'. Failed to create asset '/Game/Player/Idle'.
+Please see Output Log for details.
+[2024.03.23-12.23.04:091][756]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Fall.fbx)
+[2024.03.23-12.23.04:100][756]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Fall.fbx
+[2024.03.23-12.23.04:129][756]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.23.04:133][756]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.23.04:133][756]FBXImport: Error: Import failed. 
+[2024.03.23-12.23.04:599][756]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.23.04:607][756]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\Fall.fbx'. Failed to create asset '/Game/Player/Fall'.
+Please see Output Log for details.
+[2024.03.23-12.23.04:607][756]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\Fall.fbx'. Failed to create asset '/Game/Player/Fall'.
+Please see Output Log for details.
+[2024.03.23-12.23.04:609][756]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\JumpUp.fbx)
+[2024.03.23-12.23.04:618][756]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\JumpUp.fbx
+[2024.03.23-12.23.04:638][756]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.23.04:642][756]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.23.04:642][756]FBXImport: Error: Import failed. 
+[2024.03.23-12.23.05:207][756]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.23.05:215][756]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\JumpUp.fbx'. Failed to create asset '/Game/Player/JumpUp'.
+Please see Output Log for details.
+[2024.03.23-12.23.05:215][756]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\JumpUp.fbx'. Failed to create asset '/Game/Player/JumpUp'.
+Please see Output Log for details.
+[2024.03.23-12.23.05:216][756]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\run.fbx)
+[2024.03.23-12.23.05:224][756]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\run.fbx
+[2024.03.23-12.23.05:244][756]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.23.05:248][756]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.23.05:248][756]FBXImport: Error: Import failed. 
+[2024.03.23-12.23.05:873][756]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.23.05:880][756]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\run.fbx'. Failed to create asset '/Game/Player/run'.
+Please see Output Log for details.
+[2024.03.23-12.23.05:880][756]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\run.fbx'. Failed to create asset '/Game/Player/run'.
+Please see Output Log for details.
+[2024.03.23-12.23.05:881][756]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\walk.fbx)
+[2024.03.23-12.23.05:889][756]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\walk.fbx
+[2024.03.23-12.23.05:909][756]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.23.05:913][756]FBXImport: Error: Mesh contains Jarjar bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.03.23-12.23.05:913][756]FBXImport: Error: Import failed. 
+[2024.03.23-12.23.07:413][756]LogSlate: Window 'Message' being destroyed
+[2024.03.23-12.23.07:419][756]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\mathe\Downloads\jarjar\walk.fbx'. Failed to create asset '/Game/Player/walk'.
+Please see Output Log for details.
+[2024.03.23-12.23.07:419][756]LogAssetTools: Warning: Failed to import 'C:\Users\mathe\Downloads\jarjar\walk.fbx'. Failed to create asset '/Game/Player/walk'.
+Please see Output Log for details.
+[2024.03.23-12.23.10:329][915]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/fr//Shared/Editor/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2024.03.23-12.26.32:249][625]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.26.32:259][625]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.26.38:730][789]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2024.03.23-12.26.46:830][789]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.23-12.26.47:114][789]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.26.47:115][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.26.47:662][789]LogUObjectGlobals: Force Deleting 63 Package(s):
+	Asset Name: /Game/Player/Jareye.Jareye
+	Asset Name: /Game/Player/JareyeGlo.JareyeGlo
+	Asset Name: /Game/Player/JarJararm.JarJararm
+	Asset Name: /Game/Player/JarJararmbump.JarJararmbump
+	Asset Name: /Game/Player/JarJarbody.JarJarbody
+	Asset Name: /Game/Player/JarJarbody2.JarJarbody2
+	Asset Name: /Game/Player/JarJarbodybump.JarJarbodybump
+	Asset Name: /Game/Player/JarJarbodybump_ncl1_1.JarJarbodybump_ncl1_1
+	Asset Name: /Game/Player/JarJarbump.JarJarbump
+	Asset Name: /Game/Player/JarJarcloth.JarJarcloth
+[2024.03.23-12.26.48:607][789]LogMaterial: Display: Missing cached shadermap for Material__335 in PCD3D_SM5, Default, SM5 (DDC key hash: C46BA2B73609C24433D6C0DC90B13ACF1FC73E77), compiling. 
+[2024.03.23-12.26.48:615][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__335.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:615][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:620][789]LogMaterial: Display: Missing cached shadermap for Material__335 in PCD3D_SM5, Default, SM5 (DDC key hash: C46BA2B73609C24433D6C0DC90B13ACF1FC73E77), compiling. 
+[2024.03.23-12.26.48:621][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__335.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:621][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:623][789]LogMaterial: Display: Missing cached shadermap for Material__8 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A2F425D5C040B0E7B098279044B293610DFA2B8), compiling. 
+[2024.03.23-12.26.48:624][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__8.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:624][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:626][789]LogMaterial: Display: Missing cached shadermap for Material__8 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A2F425D5C040B0E7B098279044B293610DFA2B8), compiling. 
+[2024.03.23-12.26.48:627][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__8.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:627][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:629][789]LogMaterial: Display: Missing cached shadermap for Material__13 in PCD3D_SM5, Default, SM5 (DDC key hash: CE602472B8BF9475DAAA76672D840181B68473B3), compiling. 
+[2024.03.23-12.26.48:630][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__13.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:630][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:632][789]LogMaterial: Display: Missing cached shadermap for Material__13 in PCD3D_SM5, Default, SM5 (DDC key hash: CE602472B8BF9475DAAA76672D840181B68473B3), compiling. 
+[2024.03.23-12.26.48:632][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__13.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:632][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:633][789]LogMaterial: Display: Missing cached shadermap for Material__13 in PCD3D_SM5, Default, SM5 (DDC key hash: CE602472B8BF9475DAAA76672D840181B68473B3), compiling. 
+[2024.03.23-12.26.48:634][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__13.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:634][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:635][789]LogMaterial: Display: Missing cached shadermap for Material__2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DBCC0B76A59865724BDD59081F36E1EBFCB1EFB), compiling. 
+[2024.03.23-12.26.48:636][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:636][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:638][789]LogMaterial: Display: Missing cached shadermap for Material__2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DBCC0B76A59865724BDD59081F36E1EBFCB1EFB), compiling. 
+[2024.03.23-12.26.48:639][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:639][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:641][789]LogMaterial: Display: Missing cached shadermap for Material__2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DBCC0B76A59865724BDD59081F36E1EBFCB1EFB), compiling. 
+[2024.03.23-12.26.48:642][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:642][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:643][789]LogMaterial: Display: Missing cached shadermap for Material__2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DBCC0B76A59865724BDD59081F36E1EBFCB1EFB), compiling. 
+[2024.03.23-12.26.48:644][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:644][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:647][789]LogMaterial: Display: Missing cached shadermap for Material__4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E9A6FF83DB87CBFF398FB373283FD4DB577CF98), compiling. 
+[2024.03.23-12.26.48:647][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:647][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:650][789]LogMaterial: Display: Missing cached shadermap for Material__4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E9A6FF83DB87CBFF398FB373283FD4DB577CF98), compiling. 
+[2024.03.23-12.26.48:650][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:650][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:652][789]LogMaterial: Display: Missing cached shadermap for Material__4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E9A6FF83DB87CBFF398FB373283FD4DB577CF98), compiling. 
+[2024.03.23-12.26.48:653][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:653][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:655][789]LogMaterial: Display: Missing cached shadermap for Material__4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E9A6FF83DB87CBFF398FB373283FD4DB577CF98), compiling. 
+[2024.03.23-12.26.48:655][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__4.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:655][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:660][789]LogMaterial: Display: Missing cached shadermap for Material__37 in PCD3D_SM5, Default, SM5 (DDC key hash: EC4597D835F4D5B64EF1A7FB5BD8FD2613E4E5D4), compiling. 
+[2024.03.23-12.26.48:660][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__37.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:661][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:662][789]LogMaterial: Display: Missing cached shadermap for Material__37 in PCD3D_SM5, Default, SM5 (DDC key hash: EC4597D835F4D5B64EF1A7FB5BD8FD2613E4E5D4), compiling. 
+[2024.03.23-12.26.48:662][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__37.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:662][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:664][789]LogMaterial: Display: Missing cached shadermap for Material__37 in PCD3D_SM5, Default, SM5 (DDC key hash: EC4597D835F4D5B64EF1A7FB5BD8FD2613E4E5D4), compiling. 
+[2024.03.23-12.26.48:664][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__37.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:664][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:666][789]LogMaterial: Display: Missing cached shadermap for Material__37 in PCD3D_SM5, Default, SM5 (DDC key hash: EC4597D835F4D5B64EF1A7FB5BD8FD2613E4E5D4), compiling. 
+[2024.03.23-12.26.48:666][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__37.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:666][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:669][789]LogMaterial: Display: Missing cached shadermap for Material__259 in PCD3D_SM5, Default, SM5 (DDC key hash: 00187B69713666956BC2E06D71FA49397D0257AD), compiling. 
+[2024.03.23-12.26.48:669][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__259.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:669][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:671][789]LogMaterial: Display: Missing cached shadermap for Material__259 in PCD3D_SM5, Default, SM5 (DDC key hash: 00187B69713666956BC2E06D71FA49397D0257AD), compiling. 
+[2024.03.23-12.26.48:672][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__259.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:672][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:674][789]LogMaterial: Display: Missing cached shadermap for Material__259 in PCD3D_SM5, Default, SM5 (DDC key hash: 00187B69713666956BC2E06D71FA49397D0257AD), compiling. 
+[2024.03.23-12.26.48:674][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__259.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:674][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:676][789]LogMaterial: Display: Missing cached shadermap for Material__259 in PCD3D_SM5, Default, SM5 (DDC key hash: 00187B69713666956BC2E06D71FA49397D0257AD), compiling. 
+[2024.03.23-12.26.48:676][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__259.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:676][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:678][789]LogMaterial: Display: Missing cached shadermap for Material__11 in PCD3D_SM5, Default, SM5 (DDC key hash: 243C9080E04AAA99147AD918AA5AE43AD9B0D45A), compiling. 
+[2024.03.23-12.26.48:679][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__11.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:679][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:681][789]LogMaterial: Display: Missing cached shadermap for Material__11 in PCD3D_SM5, Default, SM5 (DDC key hash: 243C9080E04AAA99147AD918AA5AE43AD9B0D45A), compiling. 
+[2024.03.23-12.26.48:681][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__11.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:681][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:683][789]LogMaterial: Display: Missing cached shadermap for Material__11 in PCD3D_SM5, Default, SM5 (DDC key hash: 243C9080E04AAA99147AD918AA5AE43AD9B0D45A), compiling. 
+[2024.03.23-12.26.48:683][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__11.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:683][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:684][789]LogMaterial: Display: Missing cached shadermap for Material__11 in PCD3D_SM5, Default, SM5 (DDC key hash: 243C9080E04AAA99147AD918AA5AE43AD9B0D45A), compiling. 
+[2024.03.23-12.26.48:685][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__11.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:685][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:688][789]LogMaterial: Display: Missing cached shadermap for Material__71 in PCD3D_SM5, Default, SM5 (DDC key hash: B47A589D2C268546905A51BEA0C2EE2AF94A3E35), compiling. 
+[2024.03.23-12.26.48:688][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__71.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:688][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:691][789]LogMaterial: Display: Missing cached shadermap for Material__71 in PCD3D_SM5, Default, SM5 (DDC key hash: B47A589D2C268546905A51BEA0C2EE2AF94A3E35), compiling. 
+[2024.03.23-12.26.48:692][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__71.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:692][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:693][789]LogMaterial: Display: Missing cached shadermap for Material__71 in PCD3D_SM5, Default, SM5 (DDC key hash: B47A589D2C268546905A51BEA0C2EE2AF94A3E35), compiling. 
+[2024.03.23-12.26.48:694][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__71.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:694][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:695][789]LogMaterial: Display: Missing cached shadermap for Material__71 in PCD3D_SM5, Default, SM5 (DDC key hash: B47A589D2C268546905A51BEA0C2EE2AF94A3E35), compiling. 
+[2024.03.23-12.26.48:696][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__71.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:696][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:698][789]LogMaterial: Display: Missing cached shadermap for Material__5 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C10F72FD4E30263A482B14598885473066F2E11), compiling. 
+[2024.03.23-12.26.48:698][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:698][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:700][789]LogMaterial: Display: Missing cached shadermap for Material__5 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C10F72FD4E30263A482B14598885473066F2E11), compiling. 
+[2024.03.23-12.26.48:700][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:700][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:701][789]LogMaterial: Display: Missing cached shadermap for Material__5 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C10F72FD4E30263A482B14598885473066F2E11), compiling. 
+[2024.03.23-12.26.48:701][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:701][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:703][789]LogMaterial: Display: Missing cached shadermap for Material__5 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C10F72FD4E30263A482B14598885473066F2E11), compiling. 
+[2024.03.23-12.26.48:703][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:703][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:706][789]LogMaterial: Display: Missing cached shadermap for Material__6 in PCD3D_SM5, Default, SM5 (DDC key hash: 36794E5931FD796CA82CDAF8F5B14CF9832219BB), compiling. 
+[2024.03.23-12.26.48:707][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__6.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:707][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:709][789]LogMaterial: Display: Missing cached shadermap for Material__6 in PCD3D_SM5, Default, SM5 (DDC key hash: 36794E5931FD796CA82CDAF8F5B14CF9832219BB), compiling. 
+[2024.03.23-12.26.48:711][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__6.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:711][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:713][789]LogMaterial: Display: Missing cached shadermap for Material__6 in PCD3D_SM5, Default, SM5 (DDC key hash: 36794E5931FD796CA82CDAF8F5B14CF9832219BB), compiling. 
+[2024.03.23-12.26.48:714][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__6.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:714][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:715][789]LogMaterial: Display: Missing cached shadermap for Material__6 in PCD3D_SM5, Default, SM5 (DDC key hash: 36794E5931FD796CA82CDAF8F5B14CF9832219BB), compiling. 
+[2024.03.23-12.26.48:716][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__6.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:716][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:719][789]LogMaterial: Display: Missing cached shadermap for Material__247 in PCD3D_SM5, Default, SM5 (DDC key hash: 11E0FAF8E25E590455C86A02DAF8349114BD524B), compiling. 
+[2024.03.23-12.26.48:719][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__247.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:719][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:721][789]LogMaterial: Display: Missing cached shadermap for Material__247 in PCD3D_SM5, Default, SM5 (DDC key hash: 11E0FAF8E25E590455C86A02DAF8349114BD524B), compiling. 
+[2024.03.23-12.26.48:721][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__247.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:722][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:723][789]LogMaterial: Display: Missing cached shadermap for Material__247 in PCD3D_SM5, Default, SM5 (DDC key hash: 11E0FAF8E25E590455C86A02DAF8349114BD524B), compiling. 
+[2024.03.23-12.26.48:724][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__247.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:724][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:725][789]LogMaterial: Display: Missing cached shadermap for Material__247 in PCD3D_SM5, Default, SM5 (DDC key hash: 11E0FAF8E25E590455C86A02DAF8349114BD524B), compiling. 
+[2024.03.23-12.26.48:726][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__247.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:726][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:728][789]LogMaterial: Display: Missing cached shadermap for Material__1 in PCD3D_SM5, Default, SM5 (DDC key hash: B9B83CB77B927FF4765395E822150DCE5566EB4C), compiling. 
+[2024.03.23-12.26.48:729][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:729][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.48:730][789]LogMaterial: Display: Missing cached shadermap for Material__1 in PCD3D_SM5, Default, SM5 (DDC key hash: B9B83CB77B927FF4765395E822150DCE5566EB4C), compiling. 
+[2024.03.23-12.26.48:730][789]LogMaterial: Warning: [AssetLog] C:\Users\mathe\Documents\JarJarBinksGameUltimate\JarJarBinksGameUltimate\JarJarBinksUltimate\Content\Player\Material__1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.03.23-12.26.48:730][789]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.03.23-12.26.50:370][789]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2024.03.23-12.27.14:772][789]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2024.03.23-12.27.14:996][789]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2024.03.23-12.27.15:043][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.23-12.27.15:094][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.03.23-12.27.15:147][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.23-12.27.15:195][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.23-12.27.15:240][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.23-12.27.15:288][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.23-12.27.15:346][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.23-12.27.15:392][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.23-12.27.15:437][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.03.23-12.27.15:481][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.23-12.27.15:526][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.23-12.27.15:575][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.23-12.27.15:619][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.23-12.27.15:663][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.23-12.27.15:709][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.23-12.27.15:757][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.03.23-12.27.15:806][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.23-12.27.15:850][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.23-12.27.15:894][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.23-12.27.15:941][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.23-12.27.15:984][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.23-12.27.16:030][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.23-12.27.16:076][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.03.23-12.27.16:123][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.23-12.27.16:168][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.23-12.27.16:212][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.23-12.27.16:258][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.23-12.27.16:305][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.23-12.27.16:350][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.23-12.27.16:395][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.23-12.27.16:441][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.23-12.27.16:489][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.23-12.27.16:531][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.23-12.27.16:576][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.23-12.27.16:622][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.23-12.27.16:668][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.23-12.27.16:716][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.23-12.27.16:758][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.23-12.27.16:805][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.03.23-12.27.16:850][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.23-12.27.16:896][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.23-12.27.16:943][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.23-12.27.16:991][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.23-12.27.17:037][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.03.23-12.27.17:079][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.23-12.27.17:128][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.23-12.27.17:177][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.23-12.27.17:223][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.23-12.27.17:270][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.23-12.27.17:314][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.23-12.27.17:359][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.23-12.27.17:408][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.03.23-12.27.17:453][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.23-12.27.17:497][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.23-12.27.17:544][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.23-12.27.17:590][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.23-12.27.17:636][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.23-12.27.17:680][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.23-12.27.17:725][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.23-12.27.17:771][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.03.23-12.27.17:817][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.23-12.27.17:907][789]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.03.23-12.27.17:961][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.03.23-12.27.23:744][894]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mathe\Downloads\P.fbx)
+[2024.03.23-12.27.23:760][894]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\P.fbx
+[2024.03.23-12.27.23:839][894]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.27.29:913][894]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.23-12.27.29:953][894]LogFbx: Valid bind pose for Pose (BindPose) - Jarjar
+[2024.03.23-12.27.29:960][894]LogMaterial: Display: Material /Game/Player/wire_166202240.wire_166202240 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.29:963][894]LogMaterial: Display: Missing cached shadermap for wire_166202240 in PCD3D_SM5, Default, SM5 (DDC key hash: A4FA377B870BD694A690CFEEDF4C84946818E41B), compiling. 
+[2024.03.23-12.27.30:012][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:015][894]LogShaderCompilers: Display: Started 32 'XGE' shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:018][894]LogMaterial: Display: Missing cached shadermap for wire_166202240 in PCD3D_SM5, Default, SM5 (DDC key hash: CD1309143D46D493E9E6D2F1D5408CCC8078710B), compiling. 
+[2024.03.23-12.27.30:023][894]LogMaterial: Display: Material /Game/Player/wire_224198087.wire_224198087 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:027][894]LogMaterial: Display: Missing cached shadermap for wire_224198087 in PCD3D_SM5, Default, SM5 (DDC key hash: F54FAF664D64CDAFF18AE42C7A7B6EE5E5E74395), compiling. 
+[2024.03.23-12.27.30:067][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:072][894]LogMaterial: Display: Missing cached shadermap for wire_224198087 in PCD3D_SM5, Default, SM5 (DDC key hash: 219F9BECE246B11EA63CD9AD673BB21FDF2AA6CD), compiling. 
+[2024.03.23-12.27.30:077][894]LogMaterial: Display: Material /Game/Player/wire_008110134.wire_008110134 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:085][894]LogMaterial: Display: Missing cached shadermap for wire_008110134 in PCD3D_SM5, Default, SM5 (DDC key hash: 772D37B6FD6D1ED7DB050E7556EACD0BFF8A4D8B), compiling. 
+[2024.03.23-12.27.30:126][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:132][894]LogMaterial: Display: Missing cached shadermap for wire_008110134 in PCD3D_SM5, Default, SM5 (DDC key hash: 3169E1A1515F2DE1E331F24E426DD7C03D9548B7), compiling. 
+[2024.03.23-12.27.30:136][894]LogMaterial: Display: Material /Game/Player/wire_224143087.wire_224143087 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:142][894]LogMaterial: Display: Missing cached shadermap for wire_224143087 in PCD3D_SM5, Default, SM5 (DDC key hash: 7009215FAB4E8117069247885EF3985A79BBC97E), compiling. 
+[2024.03.23-12.27.30:178][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:184][894]LogMaterial: Display: Missing cached shadermap for wire_224143087 in PCD3D_SM5, Default, SM5 (DDC key hash: AD82047467E6D30FC1260B00AD9D3CF264052BEC), compiling. 
+[2024.03.23-12.27.30:187][894]LogMaterial: Display: Material /Game/Player/wire_141007058.wire_141007058 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:194][894]LogMaterial: Display: Missing cached shadermap for wire_141007058 in PCD3D_SM5, Default, SM5 (DDC key hash: 201D42D61248A5F1B507F4788FBF37E0EE01C444), compiling. 
+[2024.03.23-12.27.30:230][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:236][894]LogMaterial: Display: Missing cached shadermap for wire_141007058 in PCD3D_SM5, Default, SM5 (DDC key hash: F2A8BEAAAF5735F1829A0B78902327B18B10263F), compiling. 
+[2024.03.23-12.27.30:241][894]LogMaterial: Display: Material /Game/Player/wire_153228214.wire_153228214 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:246][894]LogMaterial: Display: Missing cached shadermap for wire_153228214 in PCD3D_SM5, Default, SM5 (DDC key hash: AC06B545D8ECB4AAC3DE3345A072CEA6BEF27B0E), compiling. 
+[2024.03.23-12.27.30:281][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:287][894]LogMaterial: Display: Missing cached shadermap for wire_153228214 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D174B2D68FE1D87848667118D5D90A09DB3B165), compiling. 
+[2024.03.23-12.27.30:292][894]LogMaterial: Display: Material /Game/Player/wire_086086086.wire_086086086 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:298][894]LogMaterial: Display: Missing cached shadermap for wire_086086086 in PCD3D_SM5, Default, SM5 (DDC key hash: 4E10BBAB263D0CF18A5E19323646C974B4A0F5C7), compiling. 
+[2024.03.23-12.27.30:343][894]LogMaterial: Display: Missing cached shadermap for wire_086086086 in PCD3D_SM5, Default, SM5 (DDC key hash: AC62609F21A463545AC7E5FDC410A6E60D0E3C13), compiling. 
+[2024.03.23-12.27.30:348][894]LogMaterial: Display: Material /Game/Player/wire_140088225.wire_140088225 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:354][894]LogMaterial: Display: Missing cached shadermap for wire_140088225 in PCD3D_SM5, Default, SM5 (DDC key hash: A23A0BEBC413472E96E8CA910BEABFEF98850592), compiling. 
+[2024.03.23-12.27.30:399][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:407][894]LogMaterial: Display: Missing cached shadermap for wire_140088225 in PCD3D_SM5, Default, SM5 (DDC key hash: B5F530D74D02E3DE83465D027044B548B848ABC2), compiling. 
+[2024.03.23-12.27.30:411][894]LogMaterial: Display: Material /Game/Player/wire_166229229.wire_166229229 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:419][894]LogMaterial: Display: Missing cached shadermap for wire_166229229 in PCD3D_SM5, Default, SM5 (DDC key hash: E2F883CC4B51131769AC16F2A26D71F85CFADA27), compiling. 
+[2024.03.23-12.27.30:462][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:468][894]LogMaterial: Display: Missing cached shadermap for wire_166229229 in PCD3D_SM5, Default, SM5 (DDC key hash: 6048F6CE292E798EE4CC49172A9637A3E0527BAF), compiling. 
+[2024.03.23-12.27.30:476][894]LogMaterial: Display: Material /Game/Player/wire_154215229.wire_154215229 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:482][894]LogMaterial: Display: Missing cached shadermap for wire_154215229 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C572ADC07F780EB60C367C4616A1395601CBD84), compiling. 
+[2024.03.23-12.27.30:526][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:532][894]LogMaterial: Display: Missing cached shadermap for wire_154215229 in PCD3D_SM5, Default, SM5 (DDC key hash: 242714748F1F238FE9DC1AE0A97018B4BAD5BB9E), compiling. 
+[2024.03.23-12.27.30:536][894]LogMaterial: Display: Material /Game/Player/wire_184228153.wire_184228153 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:542][894]LogMaterial: Display: Missing cached shadermap for wire_184228153 in PCD3D_SM5, Default, SM5 (DDC key hash: D0FD61FBCB4FB9A4B49D74B2E164ACA424016BA6), compiling. 
+[2024.03.23-12.27.30:581][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:582][894]LogShaderCompilers: Display: Started 32 'XGE' shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:585][894]LogMaterial: Display: Missing cached shadermap for wire_184228153 in PCD3D_SM5, Default, SM5 (DDC key hash: 00BF45639843919F685D76A66275119720D66A3D), compiling. 
+[2024.03.23-12.27.30:591][894]LogMaterial: Display: Material /Game/Player/wire_196088225.wire_196088225 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:599][894]LogMaterial: Display: Missing cached shadermap for wire_196088225 in PCD3D_SM5, Default, SM5 (DDC key hash: F0F6E87F1458161E78976706DDF47AABF0DBA7B8), compiling. 
+[2024.03.23-12.27.30:662][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:668][894]LogMaterial: Display: Missing cached shadermap for wire_196088225 in PCD3D_SM5, Default, SM5 (DDC key hash: C3FF4A1C75535D21893BD236D6C0313EB8203D05), compiling. 
+[2024.03.23-12.27.30:675][894]LogMaterial: Display: Material /Game/Player/Material__3.Material__3 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:682][894]LogMaterial: Display: Missing cached shadermap for Material__3 in PCD3D_SM5, Default, SM5 (DDC key hash: E1DEAEDFB75BF94760DB4C32C9F6C7EFC00A86C2), compiling. 
+[2024.03.23-12.27.30:721][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.30:728][894]LogMaterial: Display: Missing cached shadermap for Material__3 in PCD3D_SM5, Default, SM5 (DDC key hash: FEEAC761DC0ECA387D1F69B4343524CA7779B354), compiling. 
+[2024.03.23-12.27.30:734][894]LogMaterial: Display: Material /Game/Player/Material__2.Material__2 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:741][894]LogMaterial: Display: Missing cached shadermap for Material__2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0774A0CE711E1B8530391559A6993DB604FA25E9), compiling. 
+[2024.03.23-12.27.30:836][894]LogTexture: Display: Building textures: Jareye (BGRA8, 551X551)
+[2024.03.23-12.27.30:903][894]LogTexture: Display: Building textures: JareyeGlo (BGRA8, 551X551)
+[2024.03.23-12.27.30:940][894]LogMaterial: Display: Missing cached shadermap for Material__2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BE6F2A6A5232BBE6308E99F01D73D80F40C61E7), compiling. 
+[2024.03.23-12.27.30:947][894]LogMaterial: Display: Material /Game/Player/wire_028028177.wire_028028177 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.30:951][894]LogMaterial: Display: Missing cached shadermap for wire_028028177 in PCD3D_SM5, Default, SM5 (DDC key hash: D0CAC7EC3565BB448CA5FC1602A2186A96EAF65F), compiling. 
+[2024.03.23-12.27.30:995][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.31:001][894]LogMaterial: Display: Missing cached shadermap for wire_028028177 in PCD3D_SM5, Default, SM5 (DDC key hash: 847B7A27FCD720C19477D3B35B622BEAB040B00C), compiling. 
+[2024.03.23-12.27.31:005][894]LogMaterial: Display: Material /Game/Player/wire_134006006.wire_134006006 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:012][894]LogMaterial: Display: Missing cached shadermap for wire_134006006 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AB42F519E292C752E34A4B5155FEFF3E72CA4F2), compiling. 
+[2024.03.23-12.27.31:047][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.31:053][894]LogMaterial: Display: Missing cached shadermap for wire_134006006 in PCD3D_SM5, Default, SM5 (DDC key hash: A51F1CA716FC58F0909E463481D05B4771DABBD1), compiling. 
+[2024.03.23-12.27.31:058][894]LogMaterial: Display: Material /Game/Player/Material__10.Material__10 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:062][894]LogMaterial: Display: Missing cached shadermap for Material__10 in PCD3D_SM5, Default, SM5 (DDC key hash: 88E0C820B25135691CCDCF47BA6F8D07BC326ABE), compiling. 
+[2024.03.23-12.27.31:098][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.31:101][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__14_Gradient.tga
+[2024.03.23-12.27.31:102][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__15_Gradient.tga
+[2024.03.23-12.27.31:113][894]LogMaterial: Display: Missing cached shadermap for Material__10 in PCD3D_SM5, Default, SM5 (DDC key hash: FDF0F9AC176538DE10B6898EC0B73B8FBE7E387E), compiling. 
+[2024.03.23-12.27.31:117][894]LogMaterial: Display: Material /Game/Player/wire_108008136.wire_108008136 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:120][894]LogMaterial: Display: Missing cached shadermap for wire_108008136 in PCD3D_SM5, Default, SM5 (DDC key hash: BD360EDBFCE8B516F4E9AA60FB6C1AB7AAAE7884), compiling. 
+[2024.03.23-12.27.31:158][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.31:163][894]LogMaterial: Display: Missing cached shadermap for wire_108008136 in PCD3D_SM5, Default, SM5 (DDC key hash: D65B96B8FA42DDB8C8E2FE42E21C8810A90AC9E8), compiling. 
+[2024.03.23-12.27.31:168][894]LogMaterial: Display: Material /Game/Player/wire_006134006.wire_006134006 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:174][894]LogMaterial: Display: Missing cached shadermap for wire_006134006 in PCD3D_SM5, Default, SM5 (DDC key hash: B34BE9C11316CB8DC2A0DE69400432ADDFDD6905), compiling. 
+[2024.03.23-12.27.31:208][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.31:214][894]LogMaterial: Display: Missing cached shadermap for wire_006134006 in PCD3D_SM5, Default, SM5 (DDC key hash: BFFC5725F615CB13A2794F6F525206002232BD71), compiling. 
+[2024.03.23-12.27.31:219][894]LogMaterial: Display: Material /Game/Player/wire_113134006.wire_113134006 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:224][894]LogMaterial: Display: Missing cached shadermap for wire_113134006 in PCD3D_SM5, Default, SM5 (DDC key hash: ED5BBBFF8768A09B22CCF6AF3858DC22A99D469E), compiling. 
+[2024.03.23-12.27.31:263][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.31:268][894]LogMaterial: Display: Missing cached shadermap for wire_113134006 in PCD3D_SM5, Default, SM5 (DDC key hash: 408ED1C19650FC14CE53A94FF3EBCA2F2D9EF692), compiling. 
+[2024.03.23-12.27.31:274][894]LogMaterial: Display: Material /Game/Player/Material__13.Material__13 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:280][894]LogMaterial: Display: Missing cached shadermap for Material__13 in PCD3D_SM5, Default, SM5 (DDC key hash: 623A9C72C0C855CE131C95D0CF89E60A223DE19B), compiling. 
+[2024.03.23-12.27.31:346][894]LogTexture: Display: Building textures: JarJarcloth2 (OODLE_AutoDXT, 612X532)
+[2024.03.23-12.27.31:402][894]LogTexture: Display: Building textures: JarJarcloth2bump (OODLE_BC5, 612X532)
+[2024.03.23-12.27.31:436][894]LogMaterial: Display: Missing cached shadermap for Material__13 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C3AD4266C0304EBB9120A86C791CDAE40359CA8), compiling. 
+[2024.03.23-12.27.31:443][894]LogMaterial: Display: Material /Game/Player/Material__8.Material__8 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:447][894]LogMaterial: Display: Missing cached shadermap for Material__8 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D05C084E2E32B7059659F9198DC5DE256C74648), compiling. 
+[2024.03.23-12.27.31:520][894]LogTexture: Display: Building textures: JarJarcloth (BGRA8, 624X518)
+[2024.03.23-12.27.31:569][894]LogMaterial: Display: Missing cached shadermap for Material__8 in PCD3D_SM5, Default, SM5 (DDC key hash: 11CD5F50247E315E880A53DB55CDDA2649602E8F), compiling. 
+[2024.03.23-12.27.31:574][894]LogMaterial: Display: Material /Game/Player/Material__335.Material__335 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:578][894]LogMaterial: Display: Missing cached shadermap for Material__335 in PCD3D_SM5, Default, SM5 (DDC key hash: 6FD54B4BB3C767972EDD0C5A10A5650D0C1C4462), compiling. 
+[2024.03.23-12.27.31:640][894]LogTexture: Display: Building textures: JarJarfoot (BGRA8, 326X434)
+[2024.03.23-12.27.31:674][894]LogMaterial: Display: Missing cached shadermap for Material__335 in PCD3D_SM5, Default, SM5 (DDC key hash: 01DCD36ADA199D8836F8DD06299D198BC955A159), compiling. 
+[2024.03.23-12.27.31:680][894]LogMaterial: Display: Material /Game/Player/Material__346.Material__346 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:684][894]LogMaterial: Display: Missing cached shadermap for Material__346 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B792BD1EDF54F573D2D5198245309366E1C41CF), compiling. 
+[2024.03.23-12.27.31:735][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__14_Gradient.tga
+[2024.03.23-12.27.31:736][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__15_Gradient.tga
+[2024.03.23-12.27.31:742][894]LogMaterial: Display: Missing cached shadermap for Material__346 in PCD3D_SM5, Default, SM5 (DDC key hash: AA4F207FC9E2620F6DD3A6F9C11CDCA3319588D0), compiling. 
+[2024.03.23-12.27.31:748][894]LogMaterial: Display: Material /Game/Player/Material__1.Material__1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:753][894]LogMaterial: Display: Missing cached shadermap for Material__1 in PCD3D_SM5, Default, SM5 (DDC key hash: CCBA9ABC4B34FE2E2A1597848B6D91FF11B0FB24), compiling. 
+[2024.03.23-12.27.31:826][894]LogTexture: Display: Building textures: JarJartextah (BGRA8, 524X658)
+[2024.03.23-12.27.31:895][894]LogTexture: Display: Building textures: JarJarbump (OODLE_BC5, 516X656)
+[2024.03.23-12.27.31:922][894]LogMaterial: Display: Missing cached shadermap for Material__1 in PCD3D_SM5, Default, SM5 (DDC key hash: D3149ED271618B6CABC8337B410591D1F89FFD54), compiling. 
+[2024.03.23-12.27.31:925][894]LogMaterial: Display: Material /Game/Player/Material__247.Material__247 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.31:931][894]LogMaterial: Display: Missing cached shadermap for Material__247 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D9F76E548E5B55AF90B2E0E5AD844207CDDECC0), compiling. 
+[2024.03.23-12.27.31:986][894]LogTexture: Display: Building textures: JarJarbody2 (BGRA8, 548X418)
+[2024.03.23-12.27.32:028][894]LogTexture: Display: Building textures: JarJarbodybump (BGRA8, 593X492)
+[2024.03.23-12.27.32:049][894]LogMaterial: Display: Missing cached shadermap for Material__247 in PCD3D_SM5, Default, SM5 (DDC key hash: 25B12B8D5EE8DDF12EA6D0D03B6D45FAA6B01B34), compiling. 
+[2024.03.23-12.27.32:052][894]LogMaterial: Display: Material /Game/Player/Material__6.Material__6 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:057][894]LogMaterial: Display: Missing cached shadermap for Material__6 in PCD3D_SM5, Default, SM5 (DDC key hash: BDC1E868C230606E765E652858448738F403E16B), compiling. 
+[2024.03.23-12.27.32:103][894]LogTexture: Display: Building textures: JarJarbody (BGRA8, 548X418)
+[2024.03.23-12.27.32:130][894]LogTexture: Display: Building textures: JarJarbodybump_ncl1_1 (BGRA8, 593X492)
+[2024.03.23-12.27.32:152][894]LogMaterial: Display: Missing cached shadermap for Material__6 in PCD3D_SM5, Default, SM5 (DDC key hash: E5C7CD5AA402DBE533BECFBC17C4346F32E79AE9), compiling. 
+[2024.03.23-12.27.32:156][894]LogMaterial: Display: Material /Game/Player/Material__5.Material__5 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:162][894]LogMaterial: Display: Missing cached shadermap for Material__5 in PCD3D_SM5, Default, SM5 (DDC key hash: DC24B83508708D551F1E7D30128190029BDAB92B), compiling. 
+[2024.03.23-12.27.32:204][894]LogTexture: Display: Building textures: JarJareye (BGRA8, 188X446)
+[2024.03.23-12.27.32:216][894]LogTexture: Display: Building textures: JarJareyebum (BGRA8, 188X446)
+[2024.03.23-12.27.32:224][894]LogMaterial: Display: Missing cached shadermap for Material__5 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C1AE796B54B648530362CD28107410441B82C0B), compiling. 
+[2024.03.23-12.27.32:230][894]LogMaterial: Display: Material /Game/Player/Material__71.Material__71 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:237][894]LogMaterial: Display: Missing cached shadermap for Material__71 in PCD3D_SM5, Default, SM5 (DDC key hash: FC5FF01A2F9CB39A46D1B6901E32F7B86E5637CE), compiling. 
+[2024.03.23-12.27.32:296][894]LogTexture: Display: Building textures: JarJararm (BGRA8, 878X408)
+[2024.03.23-12.27.32:341][894]LogTexture: Display: Building textures: JarJararmbump (BGRA8, 878X408)
+[2024.03.23-12.27.32:364][894]LogMaterial: Display: Missing cached shadermap for Material__71 in PCD3D_SM5, Default, SM5 (DDC key hash: FAB55E395FF5640C6D168BA467407B9302899254), compiling. 
+[2024.03.23-12.27.32:368][894]LogMaterial: Display: Material /Game/Player/Material__11.Material__11 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:379][894]LogMaterial: Display: Missing cached shadermap for Material__11 in PCD3D_SM5, Default, SM5 (DDC key hash: A3C4645477FD22500B95840E7945C5280ABAA87D), compiling. 
+[2024.03.23-12.27.32:434][894]LogTexture: Display: Building textures: JarJarhand (BGRA8, 524X355)
+[2024.03.23-12.27.32:476][894]LogTexture: Display: Building textures: JarJarhandbump (BGRA8, 615X410)
+[2024.03.23-12.27.32:502][894]LogMaterial: Display: Missing cached shadermap for Material__11 in PCD3D_SM5, Default, SM5 (DDC key hash: BE260894D1E0845BD696F8B7C14A05712A76CCFA), compiling. 
+[2024.03.23-12.27.32:507][894]LogMaterial: Display: Material /Game/Player/Material__259.Material__259 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:515][894]LogMaterial: Display: Missing cached shadermap for Material__259 in PCD3D_SM5, Default, SM5 (DDC key hash: F7249C3A6C4A746D0EF16BFEF329ADFCAF16212B), compiling. 
+[2024.03.23-12.27.32:566][894]LogTexture: Display: Building textures: JarJarhand2 (BGRA8, 524X355)
+[2024.03.23-12.27.32:602][894]LogTexture: Display: Building textures: JarJarhandbump2 (OODLE_BC5, 636X416)
+[2024.03.23-12.27.32:623][894]LogMaterial: Display: Missing cached shadermap for Material__259 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D18BB922FA309674B5DDA6AF96B42D50B1F1189), compiling. 
+[2024.03.23-12.27.32:627][894]LogMaterial: Display: Material /Game/Player/Material__37.Material__37 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:637][894]LogMaterial: Display: Missing cached shadermap for Material__37 in PCD3D_SM5, Default, SM5 (DDC key hash: D62AFFE263B9010AEFB6C7C47DC3AFEF9AD90D0A), compiling. 
+[2024.03.23-12.27.32:677][894]LogTexture: Display: Building textures: JarJarearb (BGRA8, 261X871)
+[2024.03.23-12.27.32:719][894]LogTexture: Display: Building textures: JarJarearbump (BGRA8, 261X871)
+[2024.03.23-12.27.32:732][894]LogMaterial: Display: Missing cached shadermap for Material__37 in PCD3D_SM5, Default, SM5 (DDC key hash: 152845245AF2A068522BE84E3682AF190023B3CE), compiling. 
+[2024.03.23-12.27.32:737][894]LogMaterial: Display: Material /Game/Player/Material__4.Material__4 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:747][894]LogMaterial: Display: Missing cached shadermap for Material__4 in PCD3D_SM5, Default, SM5 (DDC key hash: F6C067DE4C9C5996A1C95BB2826C479C7E2307FB), compiling. 
+[2024.03.23-12.27.32:817][894]LogTexture: Display: Building textures: JarJarear (BGRA8, 261X871)
+[2024.03.23-12.27.32:845][894]LogTexture: Display: Building textures: JarJarearbump_ncl1_1 (BGRA8, 261X871)
+[2024.03.23-12.27.32:857][894]LogMaterial: Display: Missing cached shadermap for Material__4 in PCD3D_SM5, Default, SM5 (DDC key hash: 183A256F999E71E5E2FCDBB16D9FB7A1920BB8F2), compiling. 
+[2024.03.23-12.27.32:864][894]LogMaterial: Display: Material /Game/Player/Material__26.Material__26 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:874][894]LogMaterial: Display: Missing cached shadermap for Material__26 in PCD3D_SM5, Default, SM5 (DDC key hash: B5E1E20936BC0B1721A9B044F7E3727FABD921A9), compiling. 
+[2024.03.23-12.27.32:927][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.32:931][894]LogMaterial: Display: Missing cached shadermap for Material__26 in PCD3D_SM5, Default, SM5 (DDC key hash: 11F46F829DCBF9217837B417D7E2B4CFBD4D0CDD), compiling. 
+[2024.03.23-12.27.32:937][894]LogMaterial: Display: Material /Game/Player/Material__14.Material__14 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.32:948][894]LogMaterial: Display: Missing cached shadermap for Material__14 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B48491CC1A5333C2D03D15658EE668EA281B63D), compiling. 
+[2024.03.23-12.27.32:980][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.32:981][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__37_Mask.tga
+[2024.03.23-12.27.32:986][894]LogMaterial: Display: Missing cached shadermap for Material__14 in PCD3D_SM5, Default, SM5 (DDC key hash: 145EEC889E18E703D5CF60752CDEA50BA149D255), compiling. 
+[2024.03.23-12.27.32:990][894]LogMaterial: Display: Material /Game/Player/Material__9.Material__9 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.23-12.27.33:000][894]LogMaterial: Display: Missing cached shadermap for Material__9 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F80DB38ED0F0251CA1AC0B85265CDF470C611CD), compiling. 
+[2024.03.23-12.27.33:033][894]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.03.23-12.27.33:035][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__31_Cellular.tga
+[2024.03.23-12.27.33:036][894]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mathe\Desktop\jarjarbinks\maps\Map__32_Cellular.tga
+[2024.03.23-12.27.33:040][894]LogMaterial: Display: Missing cached shadermap for Material__9 in PCD3D_SM5, Default, SM5 (DDC key hash: B3BFC41B72BE415ED7C0C3609F62AEAC1DF1E353), compiling. 
+[2024.03.23-12.27.33:042][894]LogFbx: Triangulating skeletal mesh Jarjar
+[2024.03.23-12.27.33:285][894]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 2: Material=2, 84 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 3: Material=3, 70 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 5: Material=5, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 6: Material=6, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 7: Material=7, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 8: Material=8, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 9: Material=9, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 10: Material=10, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 11: Material=11, 12 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 12: Material=12, 1000 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 13: Material=13, 1000 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 14: Material=14, 132 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 15: Material=15, 36 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 16: Material=16, 640 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 17: Material=17, 144 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 18: Material=18, 132 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 19: Material=19, 144 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 20: Material=20, 264 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 21: Material=21, 226 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 22: Material=22, 620 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 23: Material=23, 120 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 24: Material=24, 888 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 25: Material=25, 79 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 26: Material=26, 88 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 27: Material=27, 432 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 28: Material=28, 751 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 29: Material=29, 538 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 30: Material=30, 554 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 31: Material=31, 930 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 32: Material=32, 796 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 33: Material=33, 1470 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 34: Material=34, 112 triangles
+[2024.03.23-12.27.33:692][894]LogSkeletalMesh: Section 35: Material=35, 416 triangles
+[2024.03.23-12.27.33:699][894]LogSkeletalMesh: Building Skeletal Mesh P...
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 0: Material=0, 16 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 2: Material=2, 84 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 3: Material=3, 70 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 4: Material=4, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 5: Material=5, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 6: Material=6, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 7: Material=7, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 8: Material=8, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 9: Material=9, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 10: Material=10, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 11: Material=11, 12 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 12: Material=12, 1000 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 13: Material=13, 1000 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 14: Material=14, 132 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 15: Material=15, 36 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 16: Material=16, 640 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 17: Material=17, 144 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 18: Material=18, 132 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 19: Material=19, 144 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 20: Material=20, 264 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 21: Material=21, 226 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 22: Material=22, 620 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 23: Material=23, 120 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 24: Material=24, 888 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 25: Material=25, 79 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 26: Material=26, 88 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 27: Material=27, 432 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 28: Material=28, 751 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 29: Material=29, 538 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 30: Material=30, 554 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 31: Material=31, 930 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 32: Material=32, 796 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 33: Material=33, 1470 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 34: Material=34, 112 triangles
+[2024.03.23-12.27.34:027][894]LogSkeletalMesh: Section 35: Material=35, 416 triangles
+[2024.03.23-12.27.34:068][894]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Player/P.P
+[2024.03.23-12.27.34:116][894]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.23-12.27.34:116][894]LogShaderCompilers: Display: Total job queries 6372, among them cache hits 2724 (42.75%)
+[2024.03.23-12.27.34:116][894]LogShaderCompilers: Display: Tracking 1632 distinct input hashes that result in 101 distinct outputs (6.19%)
+[2024.03.23-12.27.34:117][894]LogShaderCompilers: Display: RAM used: 0.71 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.17%
+[2024.03.23-12.27.34:117][894]LogShaderCompilers: Display: ================================================
+[2024.03.23-12.27.34:130][894]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.27.34:130][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.27.34:146][894]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.27.34:146][894]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.27.34:146][894]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.27.34:147][894]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.27.34:148][894]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.27.34:149][894]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.27.34:190][894]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/P_Anim.P_Anim
+[2024.03.23-12.27.34:223][894]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Map__14_Gradient' was renamed 'Map__14_Gradient_ncl1_1' 
+[2024.03.23-12.27.34:223][894]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Map__15_Gradient' was renamed 'Map__15_Gradient_ncl1_1' 
+[2024.03.23-12.27.34:223][894]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'JarJarbodybump' was renamed 'JarJarbodybump_ncl1_1' 
+[2024.03.23-12.27.34:223][894]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'JarJarearbump' was renamed 'JarJarearbump_ncl1_1' 
+[2024.03.23-12.27.34:223][894]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.23-12.27.37:921][913]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.27.37:946][913]LogSlate: Window 'Message Log' being destroyed
+[2024.03.23-12.27.43:920][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Jareye9A49E7FD4F989337E3C268B5A5A74C97.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Jareye.uasset'
+[2024.03.23-12.27.43:961][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JareyeGloC0D335214BB0DCAC86AC7B82E9874F75.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JareyeGlo.uasset'
+[2024.03.23-12.27.44:006][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJararmE37E2FEB42842C1D94515189FA8245C0.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJararm.uasset'
+[2024.03.23-12.27.44:043][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJararmbumpCDC2539C43683765D65072A0A13B638A.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJararmbump.uasset'
+[2024.03.23-12.27.44:079][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbodyA0B39A9546111F5DB0493A80BA335E51.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbody.uasset'
+[2024.03.23-12.27.44:112][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbody28C9A468E4B96A53BEC84CAA0C6A7345B.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbody2.uasset'
+[2024.03.23-12.27.44:150][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbodybumpEA7ED4934802EBFB70DC0B88F834F802.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbodybump.uasset'
+[2024.03.23-12.27.44:188][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbodybump_ncl1_169E38A4842F94F9DAFF8F699B0526282.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbodybump_ncl1_1.uasset'
+[2024.03.23-12.27.44:226][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbump2E5BEEF5473BC92C323992B2FD8D0D55.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbump.uasset'
+[2024.03.23-12.27.44:269][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarcloth060E5D2D47B0EAFB44CF458FE682383F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarcloth.uasset'
+[2024.03.23-12.27.44:310][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarcloth2C29A6AC241D5FF5EC8D567AA9419265C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarcloth2.uasset'
+[2024.03.23-12.27.44:349][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarcloth2bump074234E54473FC7B216392BA95630443.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarcloth2bump.uasset'
+[2024.03.23-12.27.44:382][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarear2F8AC84F419B962B013018B11E329D16.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarear.uasset'
+[2024.03.23-12.27.44:413][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearbF332D08046BAF750B2B7DE8645BCB7CF.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarearb.uasset'
+[2024.03.23-12.27.44:435][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearbump851CF01D4A73E38BF0110381F52A95D7.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarearbump.uasset'
+[2024.03.23-12.27.44:459][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearbump_ncl1_192D4D20D4F8CC6804826868AD92BF6E4.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarearbump_ncl1_1.uasset'
+[2024.03.23-12.27.44:475][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJareye3522EB744C3746C8B85963BE51F7E043.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJareye.uasset'
+[2024.03.23-12.27.44:494][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJareyebum63FB942A4DC902B46812E391C1013BAD.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJareyebum.uasset'
+[2024.03.23-12.27.44:530][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarfoot70B9557D48543902C0C2FC8CFD3B1CE3.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarfoot.uasset'
+[2024.03.23-12.27.44:571][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhandC18612BC435C8AEEBC3920B1D3DE6C9E.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhand.uasset'
+[2024.03.23-12.27.44:606][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhand20176B87B40D83BAE6F905492D73DB5F7.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhand2.uasset'
+[2024.03.23-12.27.44:637][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhandbumpF1DBA5224C2BFB9A523C1F9EC94B0965.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhandbump.uasset'
+[2024.03.23-12.27.44:666][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhandbump22A7C544D4EBA26B3D1769CB68B05B0C0.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhandbump2.uasset'
+[2024.03.23-12.27.44:716][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJartextah499C4CE94C096D44BE2B0BAB8CA33610.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJartextah.uasset'
+[2024.03.23-12.27.44:772][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__1588A761D4E64584810903E94651C47F4.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__1.uasset'
+[2024.03.23-12.27.44:806][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__2E6C69FCF4CD540FBF0D9FA8EA96719B1.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__2.uasset'
+[2024.03.23-12.27.44:841][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__3BBE2F4364207F7D5C09EA6B99F278B0D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__3.uasset'
+[2024.03.23-12.27.44:877][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__43727244446940BEA6FF0299818B22A9F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__4.uasset'
+[2024.03.23-12.27.44:912][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__539574DA14191FB9007F6E29669BAD24F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__5.uasset'
+[2024.03.23-12.27.44:953][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__60C4344744E5D8BFF7CB5ACB97F3F3E96.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__6.uasset'
+[2024.03.23-12.27.44:993][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__86957B19F4A7502BB2ACDAF8BBD37B188.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__8.uasset'
+[2024.03.23-12.27.45:030][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__94F744A01433D75D8D7A08BBD86E5E76C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__9.uasset'
+[2024.03.23-12.27.45:067][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__1014AD392846DAD0233BA455A3D30CD797.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__10.uasset'
+[2024.03.23-12.27.45:108][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__11DAA36FD54F86E712772D06BA7EF1EEE9.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__11.uasset'
+[2024.03.23-12.27.45:146][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__1338085D2F44106A402A0DA290D9AE262C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__13.uasset'
+[2024.03.23-12.27.45:182][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__14A6103EBD400B8A3AA551B3B2BBF2F702.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__14.uasset'
+[2024.03.23-12.27.45:216][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__26CD5FAA2E4E18FEF40F018D8528C85D49.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__26.uasset'
+[2024.03.23-12.27.45:249][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__3732A9864A443BF73C625181A32E808743.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__37.uasset'
+[2024.03.23-12.27.45:287][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__7159F2605C4A11CF2B0DB5E5A72E4BC352.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__71.uasset'
+[2024.03.23-12.27.45:326][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__247325C2710490734905B8F56B20FBA823D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__247.uasset'
+[2024.03.23-12.27.45:367][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__2598F2FB667404DB92D91E6B0879444367B.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__259.uasset'
+[2024.03.23-12.27.45:405][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__335639665D44AD9C3D9EFFA1FAA1A50E213.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__335.uasset'
+[2024.03.23-12.27.45:442][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__346B2C719074F04EE75030FC9873235D79A.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__346.uasset'
+[2024.03.23-12.27.45:465][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/P" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P.uasset" SILENT=true
+[2024.03.23-12.27.45:523][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P2534E9A2493E0240397C63B5B9D6721F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P.uasset'
+[2024.03.23-12.27.45:568][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P_AnimFB8D0015400EEDFF4302BB8E17E1EB2E.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P_Anim.uasset'
+[2024.03.23-12.27.45:621][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P_PhysicsAsset8657D2F344021081A4A0D0A4006443A9.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P_PhysicsAsset.uasset'
+[2024.03.23-12.27.45:626][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P_SkeletonD5C44164468AF23FF2CB7EA51B6B6382.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P_Skeleton.uasset'
+[2024.03.23-12.27.45:670][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1080081369BD63E5B43DCA3A92105E3B5675867DF.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_108008136.uasset'
+[2024.03.23-12.27.45:705][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1131340062180A73F4E861DF455FC05BD6ED6DEEA.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_113134006.uasset'
+[2024.03.23-12.27.45:743][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1340060068B35A8AC42E353C1EBF0B0A372E62477.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_134006006.uasset'
+[2024.03.23-12.27.45:778][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_140088225FBB5AF5247B5F79636F3FABBA7D91041.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_140088225.uasset'
+[2024.03.23-12.27.45:817][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1410070585293952F40E1C5018D6B8CB570702CBA.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_141007058.uasset'
+[2024.03.23-12.27.45:853][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_153228214C053A49E48E3AF41E28A319B252ED031.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_153228214.uasset'
+[2024.03.23-12.27.45:891][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_15421522943C3933D4052DF2443D7EC99B7164FEA.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_154215229.uasset'
+[2024.03.23-12.27.45:930][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1662022404D47CE8846A2AD9B25F75FAD750A4F72.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_166202240.uasset'
+[2024.03.23-12.27.45:965][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_166229229FE08B34B494A55357EC5D3BC280F3161.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_166229229.uasset'
+[2024.03.23-12.27.46:006][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1842281532C88F78D4B887A89062D5E8896E1DF1E.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_184228153.uasset'
+[2024.03.23-12.27.46:042][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1960882255622C8D045C0308AAB8720937FF8AD03.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_196088225.uasset'
+[2024.03.23-12.27.46:082][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_224143087D6916A384CF3238240C935814BB46783.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_224143087.uasset'
+[2024.03.23-12.27.46:120][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_224198087938B754F4A3564ECD38E358584772ADA.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_224198087.uasset'
+[2024.03.23-12.27.46:155][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_00613400601CA673348FC31B04F7D2B94CD5A8FE9.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_006134006.uasset'
+[2024.03.23-12.27.46:194][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_00811013484A58E25467D28AA3ECD8696054F895D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_008110134.uasset'
+[2024.03.23-12.27.46:235][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_02802817737BF12CD4742AB0DF2E5F380D5E934F5.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_028028177.uasset'
+[2024.03.23-12.27.46:274][ 47]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_08608608666DD76D545E7E4F1B48B6E8C6A654EE5.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_086086086.uasset'
+[2024.03.23-12.27.46:346][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.23-12.27.46:346][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarcloth2.JarJarcloth2
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__13.Material__13
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_086086086.wire_086086086
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_153228214.wire_153228214
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_141007058.wire_141007058
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_224143087.wire_224143087
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_008110134.wire_008110134
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_113134006.wire_113134006
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_224198087.wire_224198087
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_166202240.wire_166202240
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating SkeletalMesh /Game/Player/P.P
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_006134006.wire_006134006
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_108008136.wire_108008136
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__10.Material__10
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_134006006.wire_134006006
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_028028177.wire_028028177
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JareyeGlo.JareyeGlo
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/Jareye.Jareye
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__2.Material__2
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__3.Material__3
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_196088225.wire_196088225
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_184228153.wire_184228153
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_154215229.wire_154215229
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_166229229.wire_166229229
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating Material /Game/Player/wire_140088225.wire_140088225
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating AnimSequence /Game/Player/P_Anim.P_Anim
+[2024.03.23-12.27.46:347][ 47]LogContentValidation: Display: Validating PhysicsAsset /Game/Player/P_PhysicsAsset.P_PhysicsAsset
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Skeleton /Game/Player/P_Skeleton.P_Skeleton
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__9.Material__9
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__14.Material__14
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__26.Material__26
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarearbump_ncl1_1.JarJarearbump_ncl1_1
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarear.JarJarear
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__4.Material__4
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarearbump.JarJarearbump
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarearb.JarJarearb
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__37.Material__37
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhandbump2.JarJarhandbump2
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhand2.JarJarhand2
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__259.Material__259
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhandbump.JarJarhandbump
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhand.JarJarhand
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__11.Material__11
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJararmbump.JarJararmbump
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJararm.JarJararm
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__71.Material__71
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJareyebum.JarJareyebum
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJareye.JarJareye
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__5.Material__5
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbodybump_ncl1_1.JarJarbodybump_ncl1_1
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbody.JarJarbody
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__6.Material__6
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbodybump.JarJarbodybump
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbody2.JarJarbody2
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__247.Material__247
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbump.JarJarbump
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJartextah.JarJartextah
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__1.Material__1
+[2024.03.23-12.27.46:348][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__346.Material__346
+[2024.03.23-12.27.46:350][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarfoot.JarJarfoot
+[2024.03.23-12.27.46:350][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__335.Material__335
+[2024.03.23-12.27.46:350][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarcloth.JarJarcloth
+[2024.03.23-12.27.46:350][ 47]LogContentValidation: Display: Validating Material /Game/Player/Material__8.Material__8
+[2024.03.23-12.27.46:350][ 47]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarcloth2bump.JarJarcloth2bump
+[2024.03.23-12.28.00:414][317]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\run.fbx)
+[2024.03.23-12.28.00:427][317]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\run.fbx
+[2024.03.23-12.28.00:456][317]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.28.04:237][317]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.28.04:282][317]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.28.04:283][317]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.28.04:283][317]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.28.04:414][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/run.run
+[2024.03.23-12.28.04:414][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/run.run
+[2024.03.23-12.28.04:414][317]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\walk.fbx)
+[2024.03.23-12.28.04:440][317]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\walk.fbx
+[2024.03.23-12.28.04:473][317]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.28.04:475][317]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.28.04:476][317]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.28.04:478][317]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.28.04:478][317]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.28.04:478][317]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.28.04:478][317]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.28.04:479][317]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.28.04:480][317]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.28.04:481][317]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.28.04:630][317]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\dance.fbx)
+[2024.03.23-12.28.04:641][317]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\dance.fbx
+[2024.03.23-12.28.04:674][317]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.28.04:676][317]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.28.04:677][317]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.28.04:678][317]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.28.08:285][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/walk.walk
+[2024.03.23-12.28.08:286][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/dance.dance
+[2024.03.23-12.28.08:286][317]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Idle.fbx)
+[2024.03.23-12.28.08:322][317]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Idle.fbx
+[2024.03.23-12.28.08:358][317]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.28.08:361][317]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.28.08:362][317]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.28.08:363][317]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.28.09:037][317]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\Fall.fbx)
+[2024.03.23-12.28.09:071][317]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\Fall.fbx
+[2024.03.23-12.28.09:097][317]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.28.09:099][317]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.28.09:100][317]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.28.09:100][317]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.28.12:048][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Idle.Idle
+[2024.03.23-12.28.12:048][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/dance.dance
+[2024.03.23-12.28.12:048][317]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Fall.Fall
+[2024.03.23-12.28.12:048][317]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\mathe\Downloads\jarjar\JumpUp.fbx)
+[2024.03.23-12.28.12:089][317]LogFbx: Loading FBX Scene from C:\Users\mathe\Downloads\jarjar\JumpUp.fbx
+[2024.03.23-12.28.12:126][317]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(0) Hips
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(1) Spine
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(2) Spine1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(3) Spine2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(4) Neck
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(5) Head
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(8) LeftArm
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(10) LeftHand
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(27) RightShoulder
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(28) RightArm
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(29) RightForeArm
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(30) RightHand
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(31) RightHandThumb1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(32) RightHandThumb2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(33) RightHandThumb3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(34) RightHandThumb4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(35) RightHandIndex1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(36) RightHandIndex2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(37) RightHandIndex3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(38) RightHandIndex4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(43) RightHandRing1
+[2024.03.23-12.28.12:128][317]LogFbx: SortedLinks :(44) RightHandRing2
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(45) RightHandRing3
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(46) RightHandRing4
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(47) LeftUpLeg
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(48) LeftLeg
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(49) LeftFoot
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(50) LeftToeBase
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(51) LeftToe_End
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(52) RightUpLeg
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(53) RightLeg
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(54) RightFoot
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(55) RightToeBase
+[2024.03.23-12.28.12:130][317]LogFbx: SortedLinks :(56) RightToe_End
+[2024.03.23-12.28.12:131][317]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.23-12.28.13:742][323]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/JumpUp.JumpUp
+[2024.03.23-12.28.13:818][324]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Fall.Fall
+[2024.03.23-12.28.19:019][382]LogUObjectHash: Compacting FUObjectHashTables data took  13.25ms
+[2024.03.23-12.28.19:058][382]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lobby/LobbyMap' took 0.124
+[2024.03.23-12.28.19:060][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.23-12.28.19:060][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2024.03.23-12.28.19:101][382]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ThirdPersonCharacter_Auto4564ED9CC440389B720907FAC28085463.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2024.03.23-12.28.19:103][382]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.03.23-12.28.36:488][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Jareye51F42DC0406EAF2F54B1EFBD531D2DED.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Jareye.uasset'
+[2024.03.23-12.28.36:501][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JareyeGlo11BACC7440E641DA24BD20A2D0329293.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JareyeGlo.uasset'
+[2024.03.23-12.28.36:513][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJararm568FA5CD4F130D9B917CED8835FA8AD6.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJararm.uasset'
+[2024.03.23-12.28.36:521][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJararmbump9E140664439F6CBD0355C4AB2CB48E4D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJararmbump.uasset'
+[2024.03.23-12.28.36:530][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbodyB6E060134E8EAC7766FDC480F73F61AC.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbody.uasset'
+[2024.03.23-12.28.36:537][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbody261AF56C84FEB1C912BE90E9F9E4E527B.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbody2.uasset'
+[2024.03.23-12.28.36:545][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbodybump039FD8EC4C4D66A2A7F9C2A258932392.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbodybump.uasset'
+[2024.03.23-12.28.36:555][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbodybump_ncl1_17C96272C42C6B400CDDDFD907E3878DD.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbodybump_ncl1_1.uasset'
+[2024.03.23-12.28.36:563][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarbumpEC8617E749D6A3E0F8A1DB9BC8D67251.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarbump.uasset'
+[2024.03.23-12.28.36:572][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarcloth52531CFD4FDEBF43AAC9B8B5BD330A0D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarcloth.uasset'
+[2024.03.23-12.28.36:581][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarcloth2638964E241F93C2C7E35E8975A7CAFF6.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarcloth2.uasset'
+[2024.03.23-12.28.36:591][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarcloth2bump23D58A104D24FBD4EEA45B9A7ADB3392.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarcloth2bump.uasset'
+[2024.03.23-12.28.36:600][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearFB49DAFD42FCB8CC461007820AAAF46D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarear.uasset'
+[2024.03.23-12.28.36:610][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearb17CFA51145696103CD6782A3378FEC57.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarearb.uasset'
+[2024.03.23-12.28.36:621][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearbump4C431D4A410258457A503AB13E8975CE.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarearbump.uasset'
+[2024.03.23-12.28.36:630][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarearbump_ncl1_1FF537FF444DBE2EF1B91F1B6576BD34E.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarearbump_ncl1_1.uasset'
+[2024.03.23-12.28.36:636][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJareyeF1B455894887B0B5CB5FA7A0E052F05F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJareye.uasset'
+[2024.03.23-12.28.36:643][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJareyebumC9C837C94364A22D44A21C99D4ED122C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJareyebum.uasset'
+[2024.03.23-12.28.36:654][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarfoot4082098049A63D3D6D6BDB966DEE4C94.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarfoot.uasset'
+[2024.03.23-12.28.36:665][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhand326B556442E61C4D0282EEB0DCA52369.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhand.uasset'
+[2024.03.23-12.28.36:676][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhand2BC9176124D0EC03413E917A868BC23CC.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhand2.uasset'
+[2024.03.23-12.28.36:688][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhandbump6E3FD2EB449DE389ABEABD96FECF0152.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhandbump.uasset'
+[2024.03.23-12.28.36:699][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJarhandbump2A4E4FFD6439ACA9FB66557BEFAEEE65C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJarhandbump2.uasset'
+[2024.03.23-12.28.36:709][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JarJartextahCF2CB05048BC9399AE2D35B666267F53.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JarJartextah.uasset'
+[2024.03.23-12.28.36:714][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__184031CB3489641AA5786638716CC3093.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__1.uasset'
+[2024.03.23-12.28.36:719][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__21F3166B44ABE9916CBC0338CD4CE572D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__2.uasset'
+[2024.03.23-12.28.36:725][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__3F05D569940BDFB388938B9BC716A5694.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__3.uasset'
+[2024.03.23-12.28.36:729][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__40D068A5244A74228E41BDA89E0088708.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__4.uasset'
+[2024.03.23-12.28.36:734][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__5DEB14AA04FA504CA2D4FF78381A1613E.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__5.uasset'
+[2024.03.23-12.28.36:739][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__66480F49145A3CB85271CD1BC52BD9888.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__6.uasset'
+[2024.03.23-12.28.36:744][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__8054AE241405EFF6E0E6303999DF525A0.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__8.uasset'
+[2024.03.23-12.28.36:748][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__932B8D53B4156AB76CFCBB5A1F315066D.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__9.uasset'
+[2024.03.23-12.28.36:753][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__102A9882AE4F2FEDA48067B7AC0B84A7D4.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__10.uasset'
+[2024.03.23-12.28.36:758][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__11578A48A54942672C5251DE9F329007CB.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__11.uasset'
+[2024.03.23-12.28.36:763][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__13960A97044229E6DCEBFD7696154192FB.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__13.uasset'
+[2024.03.23-12.28.36:768][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__14383C6CAA4ED4F0E86F007B91723F2584.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__14.uasset'
+[2024.03.23-12.28.36:773][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__26CD17FB444C74365F1173C8B9080E8DFB.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__26.uasset'
+[2024.03.23-12.28.36:777][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__37751BF9A64102D5ADA0B76A9ABB097D97.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__37.uasset'
+[2024.03.23-12.28.36:781][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__713CE2871E40394586FFE114A3D8E9CBDC.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__71.uasset'
+[2024.03.23-12.28.36:785][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__247EA6B071446C18905931377AA3C53D89B.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__247.uasset'
+[2024.03.23-12.28.36:789][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__259B8F76BF04C60A75AAB4906B6F463367F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__259.uasset'
+[2024.03.23-12.28.36:793][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__3356F9E7DD8437568F87095D69FF3ADA6A8.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__335.uasset'
+[2024.03.23-12.28.36:797][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Material__3460B5477C14D4C8EC9B1F781B027E5AA99.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Material__346.uasset'
+[2024.03.23-12.28.36:800][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/P" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P.uasset" SILENT=true
+[2024.03.23-12.28.36:867][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/PE64A86734060A61533D55598B471781F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P.uasset'
+[2024.03.23-12.28.36:872][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P_Anim23C231144CC3196F67CF18A236216AAF.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P_Anim.uasset'
+[2024.03.23-12.28.36:895][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P_PhysicsAsset8674CB2E492866F718393E90B8FA74BF.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P_PhysicsAsset.uasset'
+[2024.03.23-12.28.36:900][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/P_Skeleton2AFD2D484F84A9DAA6C175919B7B4F16.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/P_Skeleton.uasset'
+[2024.03.23-12.28.36:905][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_108008136072E2BC24F728291FC50C1BA22DA2F26.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_108008136.uasset'
+[2024.03.23-12.28.36:910][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_11313400612640FEC46FB92A37CEBA7BBCEB120DB.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_113134006.uasset'
+[2024.03.23-12.28.36:914][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1340060064E0E1733489642901723C2B4536221B6.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_134006006.uasset'
+[2024.03.23-12.28.36:921][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_140088225D6A4099F44294E12F48A33B78540D831.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_140088225.uasset'
+[2024.03.23-12.28.36:927][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_141007058FCB881B9406E09353AF9318DC7E431BA.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_141007058.uasset'
+[2024.03.23-12.28.36:932][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1532282145433A87B4F0DD729F0D6009795D867F7.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_153228214.uasset'
+[2024.03.23-12.28.36:937][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_154215229D07AC1AD4A35E1133A502A8349E7DCE2.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_154215229.uasset'
+[2024.03.23-12.28.36:943][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_166202240DA28BB494345850B563A259E44574B3F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_166202240.uasset'
+[2024.03.23-12.28.36:950][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_1662292299564FA6C4AD1C1CCEBDDD6998176C38A.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_166229229.uasset'
+[2024.03.23-12.28.36:955][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_184228153E5E8863A48C49FC162FC1F9F1CC1CDC5.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_184228153.uasset'
+[2024.03.23-12.28.36:959][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_19608822527C6ED2448904DDEA5C075889AF862FD.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_196088225.uasset'
+[2024.03.23-12.28.36:964][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_22414308778A48C79481BC301A9D558BBEC392624.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_224143087.uasset'
+[2024.03.23-12.28.36:969][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_22419808745BD69634A3903EBC460408F00B5B06C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_224198087.uasset'
+[2024.03.23-12.28.36:974][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_006134006A3A30FDC4FD217FA4651AAB3278BC268.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_006134006.uasset'
+[2024.03.23-12.28.36:978][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_00811013420D8664F413123023CD41B9FA714CF95.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_008110134.uasset'
+[2024.03.23-12.28.36:984][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_028028177485FF33B4DEEBBCAA7EB22B54857C799.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_028028177.uasset'
+[2024.03.23-12.28.36:991][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/wire_08608608674AFAB0F4B6A923EA63A299A971AF306.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/wire_086086086.uasset'
+[2024.03.23-12.28.37:019][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/run" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/run.uasset" SILENT=true
+[2024.03.23-12.28.37:029][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/run448576474A30F21B912A86AA6B0143B4.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/run.uasset'
+[2024.03.23-12.28.37:052][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/walk" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/walk.uasset" SILENT=true
+[2024.03.23-12.28.37:063][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/walk6E8F04E944402EB4DC0F419F71B2C757.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/walk.uasset'
+[2024.03.23-12.28.37:085][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/dance" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/dance.uasset" SILENT=true
+[2024.03.23-12.28.37:103][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/danceE934C8F54F44998410FA689882189FA5.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/dance.uasset'
+[2024.03.23-12.28.37:127][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Idle" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Idle.uasset" SILENT=true
+[2024.03.23-12.28.37:138][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Idle9DCC95E74171B55693C59DA367CAB183.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Idle.uasset'
+[2024.03.23-12.28.37:162][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Fall" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Fall.uasset" SILENT=true
+[2024.03.23-12.28.37:181][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/FallE2FD4B734AD943CDD73FD1BCEC23FE0C.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Fall.uasset'
+[2024.03.23-12.28.37:224][772]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JumpUp4D4ECCBB45BEE9F6C1E09BA88063BB9B.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/JumpUp.uasset'
+[2024.03.23-12.28.37:278][772]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarcloth2.JarJarcloth2
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/Material__13.Material__13
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_086086086.wire_086086086
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_153228214.wire_153228214
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_141007058.wire_141007058
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_224143087.wire_224143087
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_008110134.wire_008110134
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_113134006.wire_113134006
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_224198087.wire_224198087
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_166202240.wire_166202240
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating SkeletalMesh /Game/Player/P.P
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_006134006.wire_006134006
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_108008136.wire_108008136
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/Material__10.Material__10
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_134006006.wire_134006006
+[2024.03.23-12.28.37:278][772]LogContentValidation: Display: Validating Material /Game/Player/wire_028028177.wire_028028177
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JareyeGlo.JareyeGlo
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/Jareye.Jareye
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__2.Material__2
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__3.Material__3
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/wire_196088225.wire_196088225
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/wire_184228153.wire_184228153
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/wire_154215229.wire_154215229
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/wire_166229229.wire_166229229
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/wire_140088225.wire_140088225
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/JumpUp.JumpUp
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/Fall.Fall
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/Idle.Idle
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/dance.dance
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/walk.walk
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/run.run
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating AnimSequence /Game/Player/P_Anim.P_Anim
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating PhysicsAsset /Game/Player/P_PhysicsAsset.P_PhysicsAsset
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Skeleton /Game/Player/P_Skeleton.P_Skeleton
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__9.Material__9
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__14.Material__14
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__26.Material__26
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarearbump_ncl1_1.JarJarearbump_ncl1_1
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarear.JarJarear
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__4.Material__4
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarearbump.JarJarearbump
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarearb.JarJarearb
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__37.Material__37
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhandbump2.JarJarhandbump2
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhand2.JarJarhand2
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__259.Material__259
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhandbump.JarJarhandbump
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarhand.JarJarhand
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__11.Material__11
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJararmbump.JarJararmbump
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJararm.JarJararm
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__71.Material__71
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJareyebum.JarJareyebum
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJareye.JarJareye
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__5.Material__5
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbodybump_ncl1_1.JarJarbodybump_ncl1_1
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbody.JarJarbody
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__6.Material__6
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbodybump.JarJarbodybump
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbody2.JarJarbody2
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Material /Game/Player/Material__247.Material__247
+[2024.03.23-12.28.37:279][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarbump.JarJarbump
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJartextah.JarJartextah
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Material /Game/Player/Material__1.Material__1
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Material /Game/Player/Material__346.Material__346
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarfoot.JarJarfoot
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Material /Game/Player/Material__335.Material__335
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarcloth.JarJarcloth
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Material /Game/Player/Material__8.Material__8
+[2024.03.23-12.28.37:280][772]LogContentValidation: Display: Validating Texture2D /Game/Player/JarJarcloth2bump.JarJarcloth2bump
+[2024.03.23-12.29.09:792][701]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/danceDD0601D540FE505133F1C490138C6F12.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Animations/dance.uasset'
+[2024.03.23-12.29.10:216][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2024.03.23-12.29.10:294][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2024.03.23-12.29.10:344][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.23-12.29.10:431][701]AssetCheck: New page: Asset Save: dance
+[2024.03.23-12.29.10:431][701]LogContentValidation: Display: Validating AnimSequence /Game/Player/Animations/dance.dance
+[2024.03.23-12.29.13:048][771]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Player/Idle.Idle
+[2024.03.23-12.29.13:140][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.23-12.29.14:562][771]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.03.23-12.29.17:054][838]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.29.17:054][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.29.17:099][838]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.29.17:099][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.29.17:199][838]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.29.17:200][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.29.21:422][ 24]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Fall9A3D7C7B46EC748C7ED938980E31ABAE.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Animations/Fall.uasset'
+[2024.03.23-12.29.21:454][ 24]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/IdleA6830010402C2726D8C374B716C59F0E.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Animations/Idle.uasset'
+[2024.03.23-12.29.22:364][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2024.03.23-12.29.22:485][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2024.03.23-12.29.22:550][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.03.23-12.29.22:595][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.23-12.29.22:660][ 24]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.23-12.29.22:660][ 24]LogContentValidation: Display: Validating AnimSequence /Game/Player/Animations/Fall.Fall
+[2024.03.23-12.29.22:660][ 24]LogContentValidation: Display: Validating AnimSequence /Game/Player/Animations/Idle.Idle
+[2024.03.23-12.29.26:983][209]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/JumpUp1A0EF3E240B98CB48373EF8DF7061CC3.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/Animations/JumpUp.uasset'
+[2024.03.23-12.29.27:332][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2024.03.23-12.29.27:389][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.03.23-12.29.27:431][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.23-12.29.27:502][209]AssetCheck: New page: Asset Save: JumpUp
+[2024.03.23-12.29.27:502][209]LogContentValidation: Display: Validating AnimSequence /Game/Player/Animations/JumpUp.JumpUp
+[2024.03.23-12.29.56:600][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/run" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/run.uasset" SILENT=true
+[2024.03.23-12.29.56:604][473]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/run16F08F474FB60CB6064987B9E0D1929B.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/run.uasset'
+[2024.03.23-12.29.56:605][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/walk" FILE="../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/walk.uasset" SILENT=true
+[2024.03.23-12.29.56:608][473]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/walk3516E5A94DDD812A205A7FBC3FF8ECAC.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/walk.uasset'
+[2024.03.23-12.29.57:574][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2024.03.23-12.29.57:632][473]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.23-12.29.57:632][473]LogContentValidation: Display: Validating AnimSequence /Game/Player/walk.walk
+[2024.03.23-12.29.57:632][473]LogContentValidation: Display: Validating AnimSequence /Game/Player/run.run
