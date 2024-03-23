@@ -6172,3 +6172,335 @@ Please see Output Log for details.
 [2024.03.23-12.29.57:632][473]AssetCheck: New page: Asset Save: multiple assets
 [2024.03.23-12.29.57:632][473]LogContentValidation: Display: Validating AnimSequence /Game/Player/walk.walk
 [2024.03.23-12.29.57:632][473]LogContentValidation: Display: Validating AnimSequence /Game/Player/run.run
+[2024.03.23-12.31.50:603][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.03.23-12.32.02:559][275]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.03.23-12.32.02:750][275]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2024.03.23-12.32.03:333][293]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ThirdPersonCharacter947AC0AA4F12B1C142B85C8DFEAA50F3.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.03.23-12.32.03:368][293]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.03.23-12.32.03:368][293]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.03.23-12.33.34:502][626]LogEditorTransaction: Undo Modify Component(s)
+[2024.03.23-12.33.46:405][282]LogHttp: Warning: 0000026DDE225600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.23-12.33.46:405][282]LogHttp: Warning: 0000026DDE225600: request failed, libcurl error: 0 (No error)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26d6a3c51e0 [can pipeline])
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 1 (Re-using existing connection! (#43) with host datarouter.ol.epicgames.com)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.92.41) port 443 (#43))
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 7 (Closing connection 43)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: 0000026DDE225600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2024.03.23-12.33.46:406][282]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.23-12.34.32:927][ 58]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.03.23-12.34.33:063][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   9.92ms
+[2024.03.23-12.34.33:691][ 78]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ThirdPersonCharacterEF693059484401C6B76A1484D69D6BCC.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.03.23-12.34.33:716][ 78]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.03.23-12.34.33:716][ 78]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.03.23-12.34.35:563][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.03.23-12.34.35:582][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.23-12.34.35:592][155]PIE: New page: PIE session: LobbyMap (23 mars 2024 à 14:34:35)
+[2024.03.23-12.34.35:596][155]LogPlayLevel: Creating play world package: /Game/Levels/Lobby/UEDPIE_0_LobbyMap
+[2024.03.23-12.34.35:614][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018284s)
+[2024.03.23-12.34.35:622][155]LogAIModule: Creating AISystem for world LobbyMap
+[2024.03.23-12.34.35:625][155]LogPlayLevel: PIE: World Init took: (0.010402s)
+[2024.03.23-12.34.35:625][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby/LobbyMap.LobbyMap to /Game/Levels/Lobby/UEDPIE_0_LobbyMap.LobbyMap (0.029512s)
+[2024.03.23-12.34.35:683][155]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2024.03.23-12.34.35:688][155]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.23-12.34.35:691][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.23-12.34.35:692][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.23-12.34.35:692][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.23-12.34.35:692][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.23-12.34.35:692][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.23-12.34.35:692][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.23-12.34.35:692][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.23-12.34.35:692][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.23-12.34.35:696][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.23-12.34.35:696][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.23-12.34.35:696][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.23-12.34.35:696][155]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.23-12.34.35:709][155]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.23-12.34.35:709][155]LogAudioMixer: Display: 1: FrontRight
+[2024.03.23-12.34.35:725][155]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (Samsung USB C Earphones)
+[2024.03.23-12.34.35:730][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.23-12.34.35:730][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.23-12.34.35:731][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.23-12.34.35:734][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.23-12.34.35:734][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.23-12.34.35:735][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.23-12.34.35:736][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.23-12.34.35:736][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.23-12.34.35:737][155]LogInit: FAudioDevice initialized.
+[2024.03.23-12.34.35:737][155]LogAudio: Display: Audio Device (ID: 23) registered with world 'LobbyMap'.
+[2024.03.23-12.34.35:800][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.23-12.34.35:802][155]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.23-12.34.35:809][155]LogWorld: Bringing World /Game/Levels/Lobby/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 60) at 2024.03.23-13.34.35
+[2024.03.23-12.34.35:811][155]LogWorld: Bringing up level for play took: 0.007604
+[2024.03.23-12.34.35:818][155]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2024.03.23-12.34.35:873][155]PIE: Server logged in
+[2024.03.23-12.34.35:877][155]PIE: Play in editor total start time 0,299 seconds.
+[2024.03.23-12.34.51:055][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.23-12.34.51:055][713]LogWorld: BeginTearingDown for /Game/Levels/Lobby/UEDPIE_0_LobbyMap
+[2024.03.23-12.34.51:061][713]LogSlate: Window 'JarJarBinksUltimate Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.03.23-12.34.51:080][713]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.34.51:082][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.34.51:107][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.23-12.34.51:124][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.34.51:181][713]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.23-12.34.51:182][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.23-12.34.51:186][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.23-12.34.51:200][713]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2024.03.23-12.34.51:232][714]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.03.23-12.36.11:603][536]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.03.23-12.36.11:616][536]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2024.03.23-12.36.11:713][536]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2024.03.23-12.36.29:996][933]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BSJarJar
+[2024.03.23-12.36.30:012][933]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2024.03.23-12.36.31:079][957]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/BSJarJarF0AE6CF3422B80D2370CA3820A6DB9BB.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/BSJarJar.uasset'
+[2024.03.23-12.36.31:103][957]AssetCheck: New page: Asset Save: BSJarJar
+[2024.03.23-12.36.31:103][957]LogContentValidation: Display: Validating BlendSpace1D /Game/Player/BSJarJar.BSJarJar
+[2024.03.23-12.36.31:568][969]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Player/BSJarJar.BSJarJar
+[2024.03.23-12.36.31:594][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.23-12.36.32:347][969]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.03.23-12.39.02:352][718]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/BSJarJarFD6F527141B8F57A4B35E2839E30C689.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/BSJarJar.uasset'
+[2024.03.23-12.39.02:381][718]AssetCheck: New page: Asset Save: BSJarJar
+[2024.03.23-12.39.02:381][718]LogContentValidation: Display: Validating BlendSpace1D /Game/Player/BSJarJar.BSJarJar
+[2024.03.23-12.39.43:054][955]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.03.23-12.39.43:064][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.23-12.39.43:064][955]PIE: New page: PIE session: LobbyMap (23 mars 2024 à 14:39:43)
+[2024.03.23-12.39.43:065][955]LogPlayLevel: Creating play world package: /Game/Levels/Lobby/UEDPIE_0_LobbyMap
+[2024.03.23-12.39.43:084][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019940s)
+[2024.03.23-12.39.43:087][955]LogAIModule: Creating AISystem for world LobbyMap
+[2024.03.23-12.39.43:088][955]LogPlayLevel: PIE: World Init took: (0.004074s)
+[2024.03.23-12.39.43:088][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby/LobbyMap.LobbyMap to /Game/Levels/Lobby/UEDPIE_0_LobbyMap.LobbyMap (0.024420s)
+[2024.03.23-12.39.43:327][955]LogUObjectHash: Compacting FUObjectHashTables data took  27.71ms
+[2024.03.23-12.39.43:343][955]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.23-12.39.43:343][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.23-12.39.43:343][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.23-12.39.43:344][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.23-12.39.43:344][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.23-12.39.43:344][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.23-12.39.43:344][955]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.23-12.39.43:350][955]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.23-12.39.43:350][955]LogAudioMixer: Display: 1: FrontRight
+[2024.03.23-12.39.43:362][955]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (Samsung USB C Earphones)
+[2024.03.23-12.39.43:365][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.23-12.39.43:365][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.23-12.39.43:365][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.23-12.39.43:368][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.23-12.39.43:368][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.23-12.39.43:368][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.23-12.39.43:369][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.23-12.39.43:369][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.23-12.39.43:369][955]LogInit: FAudioDevice initialized.
+[2024.03.23-12.39.43:369][955]LogAudio: Display: Audio Device (ID: 24) registered with world 'LobbyMap'.
+[2024.03.23-12.39.43:423][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.23-12.39.43:423][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.23-12.39.43:425][955]LogWorld: Bringing World /Game/Levels/Lobby/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 60) at 2024.03.23-13.39.43
+[2024.03.23-12.39.43:425][955]LogWorld: Bringing up level for play took: 0.000996
+[2024.03.23-12.39.43:427][955]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2024.03.23-12.39.43:445][955]PIE: Server logged in
+[2024.03.23-12.39.43:448][955]PIE: Play in editor total start time 0,385 seconds.
+[2024.03.23-12.39.45:035][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.23-12.39.45:035][  1]LogWorld: BeginTearingDown for /Game/Levels/Lobby/UEDPIE_0_LobbyMap
+[2024.03.23-12.39.45:036][  1]LogSlate: Window 'JarJarBinksUltimate Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.03.23-12.39.45:050][  1]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.39.45:053][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.39.45:074][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.23-12.39.45:085][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.39.45:135][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.23-12.39.45:136][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.23-12.39.45:137][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.23-12.39.45:150][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2024.03.23-12.39.45:187][  2]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.03.23-12.39.51:417][236]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.03.23-12.39.51:628][236]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.23-12.40.44:886][ 13]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2024.03.23-12.40.47:840][ 13]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2024.03.23-12.40.52:033][ 13]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.03.23-12.40.52:046][ 13]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.03.23-12.40.52:082][ 13]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.03.23-12.41.04:129][289]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABJarJar
+[2024.03.23-12.41.04:178][289]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.03.23-12.41.05:604][319]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ABJarJarB82971514EF80DC635D45C97E394DD12.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/ABJarJar.uasset'
+[2024.03.23-12.41.05:628][319]AssetCheck: New page: Asset Save: ABJarJar
+[2024.03.23-12.41.05:628][319]LogContentValidation: Display: Validating AnimBlueprint /Game/Player/ABJarJar.ABJarJar
+[2024.03.23-12.41.06:425][338]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Player/ABJarJar.ABJarJar
+[2024.03.23-12.41.06:437][338]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.23-12.41.07:934][338]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2024.03.23-12.41.12:121][526]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.03.23-12.41.12:171][526]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.23-12.41.14:845][661]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2024.03.23-12.41.14:997][661]LogUObjectHash: Compacting FUObjectHashTables data took  10.00ms
+[2024.03.23-12.41.15:531][681]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ThirdPersonCharacter36A6EC574DB67E9D3D00F58CA0C1433F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2024.03.23-12.41.15:557][681]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2024.03.23-12.41.15:558][681]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.03.23-12.41.37:998][575]BlueprintLog: New page: Compile ABJarJar
+[2024.03.23-12.41.38:095][575]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2024.03.23-12.41.38:820][604]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ABJarJar2ABC4EEC4345EB11F28FE288137BB75F.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/ABJarJar.uasset'
+[2024.03.23-12.41.38:839][604]AssetCheck: New page: Asset Save: ABJarJar
+[2024.03.23-12.41.38:839][604]LogContentValidation: Display: Validating AnimBlueprint /Game/Player/ABJarJar.ABJarJar
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: request failed, libcurl error: 0 (No error)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26d6a3c51b0 [can pipeline])
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 1 (Re-using existing connection! (#46) with host datarouter.ol.epicgames.com)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.146.52.44) port 443 (#46))
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 7 (Closing connection 46)
+[2024.03.23-12.42.46:610][103]LogHttp: Warning: 0000026DE50DAB00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2024.03.23-12.42.46:935][104]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.23-12.43.08:082][926]BlueprintLog: New page: Compile ABJarJar
+[2024.03.23-12.43.08:194][926]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2024.03.23-12.43.22:393][508]BlueprintLog: New page: Compile ABJarJar
+[2024.03.23-12.43.22:477][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2024.03.23-12.43.37:417][985]BlueprintLog: New page: Compile ABJarJar
+[2024.03.23-12.43.37:525][985]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2024.03.23-12.43.38:144][  7]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ABJarJar0D3F37704A6C4CB1009A58AF1953124A.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/ABJarJar.uasset'
+[2024.03.23-12.43.38:167][  7]AssetCheck: New page: Asset Save: ABJarJar
+[2024.03.23-12.43.38:167][  7]LogContentValidation: Display: Validating AnimBlueprint /Game/Player/ABJarJar.ABJarJar
+[2024.03.23-12.46.40:526][486]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2024.03.23-12.46.40:529][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lobby/LobbyMap' took 0.072
+[2024.03.23-12.46.40:531][486]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Player/ABJarJar] ([2] browsable assets)...
+[2024.03.23-12.46.40:557][486]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Player/ABJarJar.ABJarJar]
+[2024.03.23-12.46.40:557][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/ABJarJar]
+[2024.03.23-12.46.40:574][486]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ABJarJar_Auto56937C0574DE58C82F3242C9CADED4831.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/Autosaves/Game/Player/ABJarJar_Auto5.uasset'
+[2024.03.23-12.46.40:575][486]LogFileHelpers: Auto-saving content packages took 0.047
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: request failed, libcurl error: 0 (No error)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26d6a3c5db0 [can pipeline])
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 1 (Re-using existing connection! (#47) with host datarouter.ol.epicgames.com)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.214.107.54) port 443 (#47))
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 7 (Closing connection 47)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: 0000026DE5068F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2024.03.23-12.46.46:387][810]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.23-12.47.13:442][140]BlueprintLog: New page: Compile ABJarJar
+[2024.03.23-12.47.13:487][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_39:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:488][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:552][140]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2024.03.23-12.47.13:575][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:607][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:721][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:736][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:753][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:783][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:799][146]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:817][147]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:833][148]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:852][149]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:865][150]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:882][151]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:899][152]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.13:927][153]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABJarJar_C /Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABJarJar_C_5
+	Function /Game/Player/ABJarJar.ABJarJar_C:ExecuteUbergraph_ABJarJar:0040
+[2024.03.23-12.47.14:173][163]LogSavePackage: Moving '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Saved/ABJarJar2B9E346441E2B514E4545CA808BB9A90.tmp' to '../../../../../../Users/mathe/Documents/JarJarBinksGameUltimate/JarJarBinksGameUltimate/JarJarBinksUltimate/Content/Player/ABJarJar.uasset'
+[2024.03.23-12.47.14:199][163]AssetCheck: New page: Asset Save: ABJarJar
+[2024.03.23-12.47.14:199][163]LogContentValidation: Display: Validating AnimBlueprint /Game/Player/ABJarJar.ABJarJar
+[2024.03.23-12.47.16:962][260]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.03.23-12.47.16:972][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.23-12.47.16:972][260]PIE: New page: PIE session: LobbyMap (23 mars 2024 à 14:47:16)
+[2024.03.23-12.47.16:972][260]LogPlayLevel: Creating play world package: /Game/Levels/Lobby/UEDPIE_0_LobbyMap
+[2024.03.23-12.47.16:975][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003538s)
+[2024.03.23-12.47.16:978][260]LogAIModule: Creating AISystem for world LobbyMap
+[2024.03.23-12.47.16:978][260]LogPlayLevel: PIE: World Init took: (0.002000s)
+[2024.03.23-12.47.16:978][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby/LobbyMap.LobbyMap to /Game/Levels/Lobby/UEDPIE_0_LobbyMap.LobbyMap (0.005780s)
+[2024.03.23-12.47.17:031][260]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2024.03.23-12.47.17:032][260]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.23-12.47.17:032][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.23-12.47.17:032][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.23-12.47.17:033][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.23-12.47.17:033][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.23-12.47.17:033][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.23-12.47.17:033][260]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.23-12.47.17:036][260]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.23-12.47.17:036][260]LogAudioMixer: Display: 1: FrontRight
+[2024.03.23-12.47.17:048][260]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (Samsung USB C Earphones)
+[2024.03.23-12.47.17:049][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.23-12.47.17:049][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.23-12.47.17:049][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.23-12.47.17:049][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.23-12.47.17:049][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.23-12.47.17:049][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.23-12.47.17:051][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.23-12.47.17:051][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.23-12.47.17:051][260]LogInit: FAudioDevice initialized.
+[2024.03.23-12.47.17:051][260]LogAudio: Display: Audio Device (ID: 25) registered with world 'LobbyMap'.
+[2024.03.23-12.47.17:095][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.23-12.47.17:095][260]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.23-12.47.17:097][260]LogWorld: Bringing World /Game/Levels/Lobby/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 60) at 2024.03.23-13.47.17
+[2024.03.23-12.47.17:097][260]LogWorld: Bringing up level for play took: 0.000785
+[2024.03.23-12.47.17:098][260]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2024.03.23-12.47.17:105][260]PIE: Server logged in
+[2024.03.23-12.47.17:106][260]PIE: Play in editor total start time 0,135 seconds.
+[2024.03.23-12.47.36:210][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.23-12.47.36:210][874]LogWorld: BeginTearingDown for /Game/Levels/Lobby/UEDPIE_0_LobbyMap
+[2024.03.23-12.47.36:211][874]LogSlate: Window 'JarJarBinksUltimate Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.03.23-12.47.36:227][874]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.23-12.47.36:227][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.47.36:248][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.23-12.47.36:258][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.23-12.47.36:307][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.23-12.47.36:307][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.23-12.47.36:308][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.23-12.47.36:316][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2024.03.23-12.47.36:337][875]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: request failed, libcurl error: 0 (No error)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26d6a3c6380 [can pipeline])
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 1 (Re-using existing connection! (#48) with host datarouter.ol.epicgames.com)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.206.133.8) port 443 (#48))
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 7 (Closing connection 48)
+[2024.03.23-12.49.46:652][569]LogHttp: Warning: 0000026E55FC6B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2024.03.23-12.49.46:984][570]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9865D10E-4806-F0A1-7383-A9B452B5C108%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fdc706dc40b489fa3de2b9a41eff32f9%7Ca5310f3cf6fd42e09819fc8840f17f8c%7C04974ae5-bbed-4789-8979-3112669bd87e&AppEnvironment=datacollector-binary&UploadType=eteventstream
